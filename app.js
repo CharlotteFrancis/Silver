@@ -96,16 +96,7 @@ function handleGoogleSheetData(data) {
   //manipulate values here.
 
   if (values && values.length > 0) {
-      // const table = document.createElement('table');
       values.forEach(row => {
-          // const tr = document.createElement('tr');
-          // row.forEach(cell => {
-              // const td = document.createElement('td');
-              // td.textContent = cell;
-              // tr.appendChild(td);
-          // });
-          // table.appendChild(tr);
-
           if (row[4] != "None" && row[0] != "Name") {
 
             for (let i = 0; i < parseInt(row[9]); i++) {
@@ -123,13 +114,9 @@ function handleGoogleSheetData(data) {
             }
           }
       });
-
-      // dataContainer.appendChild(table);
-
       test()
   } else {
-      // dataContainer.textContent = 'No data found.';
-      Console.log('No data found.')
+      console.log('No data found.')
   }
 }
 
