@@ -1,0 +1,1457 @@
+Name,Set,Number,Rarity,Grace,Valor,Charm,Mystique,Ferocity
+Spirit of Fire,ALC,001,C,None,None,None,None,None
+Spirit of Fire,ALCSD,001,C,None,None,None,None,None
+Spirit of Fire,DOA Alter,001,C,None,None,None,None,None
+Spirit of Fire,DOA 1st,001,C,None,None,None,None,None
+Spirit of Fire,DOAp,001,C,None,None,None,None,None
+Spirit of Fire,DOASD,001,C,None,None,None,None,None
+Spirit of Fire,DEMO23,001,C,None,None,None,None,None
+Lost Spirit,DEMO22,001,C,None,None,None,None,None
+Spirit of Serene Fire,FTC,001,UR,287,278,283,320,320
+Scepter of Lumina,PRXY,001,PR,None,None,None,None,None
+Spirit of Water,ALC,002,C,None,None,None,None,None
+Spirit of Water,ALCSD,002,C,None,None,None,None,None
+Spirit of Water,DOA Alter,002,C,None,None,None,None,None
+Spirit of Water,DOA 1st,002,C,None,None,None,None,None
+Spirit of Water,DOASD,002,C,None,None,None,None,None
+Spirit of Serene Water,FTC,002,UR,300,297,283,334,274
+Stonescale Band,PRXY,002,PR,None,None,None,None,None
+Spirit of Wind,ALC,003,C,None,None,None,None,None
+Spirit of Wind,ALCSD,003,C,None,None,None,None,None
+Spirit of Wind,DOA Alter,003,C,None,None,None,None,None
+Spirit of Wind,DOA 1st,003,C,None,None,None,None,None
+Spirit of Wind,DOAp,002,C,None,None,None,None,None
+Spirit of Wind,DOASD,003,C,None,None,None,None,None
+Spirit of Wind,DEMO23,002,C,None,None,None,None,None
+Spirit of Serene Wind,FTC,003,UR,320,288,288,320,272
+Insignia of the Corhazi,PRXY,003,PR,None,None,None,None,None
+"Arisanna, Herbalist Prodigy",ALC,004,C,171,126,171,160,116
+"Arisanna, Herbalist Prodigy",ALCSD,004,C,None,None,None,None,None
+"Arisanna, Herbalist Prodigy",ALC 1st,004,CSR,387,346,409,401,317
+"Lorraine, Wandering Warrior",DOA Alter,004,C,None,None,None,None,None
+"Lorraine, Wandering Warrior",DOA 1st,004,C,160,137,171,195,137
+"Lorraine, Wandering Warrior",DOAp,003,C,None,None,None,None,None
+"Lorraine, Wandering Warrior",DOASD,004,C,None,None,None,None,None
+"Lorraine, Wandering Warrior",DEMO22,002,C,None,None,None,None,None
+"Lorraine, Wandering Warrior",DEMO23,003,C,None,None,None,None,None
+"Lorraine, Wandering Warrior",DOA 1st,004,CUR,400,343,429,485,343
+"Merlin, Kingslayer",FTC,004,SR,250,225,273,273,225
+"Merlin, Kingslayer",FTC,004A,CSR,364,350,390,381,375
+"Merlin, Kingslayer",FTC,004B,CSR,360,352,390,386,372
+"Arisanna, Master Alchemist",ALC,005,C,160,126,183,149,126
+"Arisanna, Master Alchemist",ALCSD,005,C,None,None,None,None,None
+"Arisanna, Master Alchemist",ALC 1st,005A,CSR,377,342,410,414,317
+"Arisanna, Master Alchemist",ALC 1st,005B,CSR,400,326,458,436,277
+"Lorraine, Blademaster",DOA Alter,005,C,None,None,None,None,None
+"Lorraine, Blademaster",DOA 1st,005,C,194,171,149,149,137
+"Lorraine, Blademaster",DOAp,004,C,None,None,None,None,None
+"Lorraine, Blademaster",DOASD,005,C,None,None,None,None,None
+"Lorraine, Blademaster",DEMO22,003,C,None,None,None,None,None
+"Lorraine, Blademaster",DEMO23,004,C,None,None,None,None,None
+"Lorraine, Blademaster",KSP,001,PR,0,0,0,0,0
+"Lorraine, Blademaster",DOA 1st,005,CUR,486,429,371,371,343
+"Lorraine, Crux Knight",DOAp,005,C,None,None,None,None,None
+"Lorraine, Crux Knight",DOASD,006,C,None,None,None,None,None
+"Lorraine, Crux Knight",KSP,002,PR,0,0,0,0,0
+"Lorraine, Crux Knight",DOASD,006,CSR,341,369,341,397,312
+Azure Protective Trinket,FTC,005,U,176,168,152,184,213
+"Zander, Deft Executor",PRXY,005,PR,None,None,None,None,None
+"Arisanna, Astral Zenith",ALC,006,C,149,126,149,194,126
+"Arisanna, Astral Zenith",ALCSD,006,C,None,None,None,None,None
+"Arisanna, Astral Zenith",ALCSD,006,CSR,336,300,404,444,276
+"Lorraine, Spirit Ruler",DOA Alter,006,C,None,None,None,None,None
+"Lorraine, Spirit Ruler",DOA 1st,006,C,160,149,149,205,137
+"Lorraine, Spirit Ruler",DOA 1st,006,CUR,400,371,371,515,343
+Crimson Protective Trinket,FTC,006,U,160,176,160,184,213
+"Arisanna, Lucent Arbiter",ALC,007,C,137,127,149,194,137
+"Arisanna, Lucent Arbiter",ALC 1st,007,CSR,364,340,401,415,340
+"Rai, Spellcrafter",DOA Alter,007,C,None,None,None,None,None
+"Rai, Spellcrafter",DOA 1st,007,C,171,137,137,206,149
+"Rai, Spellcrafter",DOAp,006,C,None,None,None,None,None
+"Rai, Spellcrafter",DOASD,007,C,None,None,None,None,None
+"Rai, Spellcrafter",DOA 1st,007,CUR,429,343,343,514,371
+Quicksilver Grail,FTC,007,UR,None,None,None,None,None
+Quicksilver Grail,FTCA,016,UR,382,275,283,410,250
+"Diana, Keen Huntress",ALC,008,C,127,137,160,149,171
+"Diana, Keen Huntress",ALCSD,007,C,None,None,None,None,None
+"Diana, Keen Huntress",ALC 1st,008,CSR,387,321,408,344,400
+"Rai, Archmage",DOA Alter,008,C,None,None,None,None,None
+"Rai, Archmage",DOA 1st,008,C,183,126,160,205,126
+"Rai, Archmage",DOAp,007,C,None,None,None,None,None
+"Rai, Archmage",DOASD,008,C,None,None,None,None,None
+"Rai, Archmage",DOA 1st,008,CUR,457,314,400,515,314
+"Rai, Storm Seer",DOAp,008,C,None,None,None,None,None
+"Rai, Storm Seer",DOASD,009,C,None,None,None,None,None
+"Rai, Storm Seer",KSP,003,PR,0,0,0,0,0
+"Rai, Storm Seer",DOASD,009,CSR,312,341,284,454,369
+Tariff Ring,FTC,008,C,183,171,138,126,126
+"Diana, Deadly Duelist",ALC,009,C,149,149,126,137,183
+"Diana, Deadly Duelist",ALCSD,008,C,None,None,None,None,None
+"Diana, Deadly Duelist",ALC 1st,009A,CSR,395,383,361,326,395
+"Diana, Deadly Duelist",ALC 1st,009B,CSR,390,347,365,400,395
+"Rai, Mana Weaver",DOA Alter,009,C,None,None,None,None,None
+"Rai, Mana Weaver",DOA 1st,009,C,171,137,137,218,137
+"Rai, Mana Weaver",DOA 1st,009,CUR,429,343,343,542,343
+"Silvie, Loved by All",DOAp,009,C,None,None,None,None,None
+"Silvie, Loved by All",DOASD,012,C,None,None,None,None,None
+"Silvie, Loved by All",DOASD,012,CSR,341,255,426,426,312
+Tithe Proclamation,FTC,009,C,171,183,115,126,149
+Tithe Proclamation,P23,018,PR,None,None,None,None,None
+"Aithne, Spirit of Fire",P23,009,CPR,None,None,None,None,None
+"Diana, Cursebreaker",ALC,010,C,126,126,149,194,149
+"Diana, Cursebreaker",ALC 1st,010,CSR,395,269,401,395,400
+"Silvie, Wilds Whisperer",DOA Alter,010,C,None,None,None,None,None
+"Silvie, Wilds Whisperer",DOA 1st,010,C,137,149,194,171,149
+"Silvie, Wilds Whisperer",DOASD,010,C,None,None,None,None,None
+"Silvie, Wilds Whisperer",DOA 1st,010,CUR,343,371,486,429,371
+"Zander, Blinding Steel",DOAp,010,C,None,None,None,None,None
+"Zander, Blinding Steel",DOASD,013,C,None,None,None,None,None
+"Zander, Blinding Steel",SP1,020,CSR,310,320,240,240,290
+Viridian Protective Trinket,FTC,010,U,200,168,160,213,152
+Viridian Protective Trinket,PRXY,004,PR,None,None,None,None,None
+"Morrigan, Lost Spirit",P23,010,CPR,None,None,None,None,None
+"Diana, Duskstalker",ALC,011,C,127,137,137,160,183
+"Diana, Duskstalker",ALCSD,009,C,None,None,None,None,None
+"Diana, Duskstalker",ALCSD,009,CSR,301,289,399,351,420
+"Silvie, With the Pack",DOA Alter,011,C,None,None,None,None,None
+"Silvie, With the Pack",DOA 1st,011,C,114,160,217,183,126
+"Silvie, With the Pack",DOASD,011,C,None,None,None,None,None
+"Silvie, With the Pack",DOA 1st,011,CUR,286,400,543,457,314
+Beastsoul Visage,FTC,011,R,209,190,196,215,250
+Prismatic Spirit,P23,011,PR,None,None,None,None,None
+"Tonoris, Lone Mercenary",ALC,012,C,160,171,149,127,137
+"Tonoris, Lone Mercenary",ALCSD,010,C,None,None,None,None,None
+"Tonoris, Lone Mercenary",ALC 1st,012,CSR,379,426,372,376,307
+"Silvie, Earth's Tune",DOA Alter,012,C,None,None,None,None,None
+"Silvie, Earth's Tune",DOA 1st,012,C,160,114,195,194,137
+"Silvie, Earth's Tune",DOA 1st,012,CUR,400,285,486,486,343
+"Clarent, Sword of Peace",DOAp,012,R,None,None,None,None,None
+"Clarent, Sword of Peace",DOASD,018,R,None,None,None,None,None
+"Clarent, Sword of Peace",KSP,005,PR,0,0,0,0,0
+Explosive Rune,FTC,012,R,203,190,184,241,242
+Gate of Alterity,P23,012,PR,None,None,None,None,None
+"Tonoris, Might of Humanity",ALC,013,C,160,171,137,116,160
+"Tonoris, Might of Humanity",ALCSD,011,C,None,None,None,None,None
+"Tonoris, Might of Humanity",ALC 1st,013A,CSR,309,452,372,268,459
+"Tonoris, Might of Humanity",ALC 1st,013B,CSR,309,405,489,266,428
+"Zander, Prepared Scout",DOA Alter,013,C,None,None,None,None,None
+"Zander, Prepared Scout",DOA 1st,013,C,194,171,126,149,160
+"Zander, Prepared Scout",DOA 1st,013,CUR,486,429,314,371,400
+Blastshot Pump,ALCSD,013,R,None,None,None,None,None
+Blastshot Pump,P24,001,PR,None,None,None,None,None
+Firetongue,FTC,013,R,215,203,177,222,243
+"Tonoris, Creation's Will",ALC,014,C,160,160,127,171,126
+"Tonoris, Creation's Will",ALC 1st,014,CSR,303,404,362,390,401
+"Zander, Always Watching",DOA Alter,014,C,None,None,None,None,None
+"Zander, Always Watching",DOA 1st,014,C,205,183,126,160,126
+"Zander, Always Watching",DOA 1st,014,CUR,515,457,314,400,314
+Bulwark Sword,ALCSD,014,U,None,None,None,None,None
+Bulwark Sword,P24,002,PR,None,None,None,None,None
+"Endura, Scepter of Ignition",DOAp,014,R,None,None,None,None,None
+"Endura, Scepter of Ignition",DOASD,020,R,None,None,None,None,None
+"Endura, Scepter of Ignition",FTCA,009,SR,232,220,218,242,228
+"Endura, Scepter of Ignition",KSP,006,PR,0,0,0,0,0
+Varuckan Soulknife,FTC,014,SR,247,230,225,268,276
+"Tonoris, Genesis Aegis",ALC,015,C,149,194,126,126,149
+"Tonoris, Genesis Aegis",ALCSD,012,C,None,None,None,None,None
+"Tonoris, Genesis Aegis",ALCSD,012,CSR,330,330,330,330,330
+"Zander, Corhazi's Chosen",DOA Alter,015,C,None,None,None,None,None
+"Zander, Corhazi's Chosen",DOA 1st,015,C,206,183,126,171,114
+"Zander, Corhazi's Chosen",DOA 1st,015,CUR,514,457,314,429,286
+Charged Manaplate,ALCSD,015,U,None,None,None,None,None
+Charged Manaplate,P24,003,PR,None,None,None,None,None
+"Arondight, Azure Blade",FTC,015,SR,263,230,214,266,273
+"Gwendolyn, Spirit of Wind",P23,015,CPR,None,None,None,None,None
+"Allen, Beast Beckoner",DOA Alter,016,C,160,137,195,149,103
+"Allen, Beast Beckoner",DOA 1st,016,C,None,None,None,None,None
+"Allen, Beast Beckoner",DOA Alter,016,CSR,401,343,486,372,258
+"Polkhawk, Bombastic Shot",ALC,016,U,0,0,0,0,0
+Cleric Robes,ALCSD,016,U,None,None,None,None,None
+Cleric Robes,P24,004,PR,None,None,None,None,None
+Flute of Taming,DOAp,016,R,None,None,None,None,None
+Flute of Taming,DOASD,022,R,None,None,None,None,None
+Cloak of Stillwater,FTC,016,R,235,216,190,241,178
+"Merlin, Memory Thief",DOA Alter,017,C,149,126,171,183,115
+"Merlin, Memory Thief",DOA 1st,017,C,None,None,None,None,None
+"Merlin, Memory Thief",DOA Alter,017,CSR,372,315,429,458,286
+"Nico, Whiplash Allure",ALC,017,U,0,0,0,0,0
+Crest of the Alliance,ALCSD,017,U,None,None,None,None,None
+Crest of the Alliance,P24,005,PR,None,None,None,None,None
+Wand of Frost,FTC,017,R,222,209,184,255,190
+"Mordred, Flawless Blade",DOA Alter,018,C,149,149,149,149,148
+"Mordred, Flawless Blade",DOA 1st,018,C,None,None,None,None,None
+"Mordred, Flawless Blade",DOA Alter,018,CSR,372,372,372,372,372
+"Vanitas, Obliviate Schemer",ALC,018,U,0,0,0,0,0
+Flash Grenade,ALCSD,018,R,None,None,None,None,None
+Flash Grenade,P24,006,PR,None,None,None,None,None
+Wildheart Lyre,FTC,018,R,222,210,203,235,190
+"Tristan, Grim Stalker",DOA Alter,019,C,149,114,171,126,184
+"Tristan, Grim Stalker",DOA 1st,019,C,None,None,None,None,None
+"Tristan, Grim Stalker",DOA Alter,019,CSR,372,286,429,315,458
+"Vanitas, Convergent Ruin",ALC,019,U,0,0,0,0,0
+Ingredient Pouch,ALCSD,019,U,None,None,None,None,None
+Ingredient Pouch,P24,007,PR,None,None,None,None,None
+Orb of Choking Fumes,DOAp,019,R,None,None,None,None,None
+Orb of Choking Fumes,DOASD,026,R,None,None,None,None,None
+Effigy of Gaia,FTC,019,SR,240,225,289,273,219
+Assassin's Ripper,DOA Alter,020,C,171,126,103,160,184
+Assassin's Ripper,DOA 1st,020,C,183,137,114,171,195
+Assassin's Ripper,FTCA,001,SR,189,131,110,180,190
+Alchemist's Kit,ALC,020,R,247,171,196,285,161
+"Ventus, Staff of Zephyrs",FTC,020,SR,262,251,219,283,231
+"Sabrina, Spirit of Water",P23,020,CPR,None,None,None,None,None
+Bauble of Abundance,DOA Alter,021,C,183,149,137,171,104
+Bauble of Abundance,DOA 1st,021,C,194,160,149,183,114
+Bauble of Abundance,DOAp,011,C,None,None,None,None,None
+Bauble of Abundance,DOASD,014,C,None,None,None,None,None
+Bauble of Abundance,DEMO22,004,C,None,None,None,None,None
+Bauble of Abundance,FTCA,002,SR,195,160,145,190,110
+Necklace of Foresight,ALCSD,021,U,None,None,None,None,None
+Necklace of Foresight,P24,009,PR,None,None,None,None,None
+Alliance Gearshield,ALC,021,R,266,279,154,196,165
+Windwalker Boots,FTC,021,R,235,222,190,222,191
+Plated Bullet,ALCSD,022,U,None,None,None,None,None
+Plated Bullet,P24,010,PR,None,None,None,None,None
+Fatal Timepiece,ALC,022,R,253,165,155,291,196
+Bauble of Mending,DOA Alter,022,R,260,127,242,291,140
+Bauble of Mending,DOA 1st,022,R,279,133,266,310,152
+Zephyr's Edge,FTC,022,R,222,216,190,203,229
+Powercharged Shield,ALCSD,023,U,None,None,None,None,None
+Powercharged Shield,P24,011,PR,None,None,None,None,None
+Beastbond Boots,DOA Alter,023,U,176,136,208,152,221
+Beastbond Boots,DOA 1st,023,U,192,144,224,160,240
+Beastbond Boots,DOASD,015,U,None,None,None,None,None
+Beastbond Boots,FTCA,003,SR,197,140,220,165,238
+Navigation Compass,ALC,023,R,266,272,196,184,142
+The Majestic Spirit,FTC,023,UR,297,301,269,320,301
+The Majestic Spirit,FTC,023,CSR,391,380,320,379,390
+Beastbond Ears,DOA Alter,024,C,160,103,217,126,138
+Beastbond Ears,DOA 1st,024,C,171,114,229,137,149
+Beastbond Ears,DOASD,016,C,None,None,None,None,None
+Beastbond Ears,FTCA,004,SR,178,110,220,142,150
+Prototype Pistol,ALCSD,024,U,None,None,None,None,None
+Prototype Pistol,P24,012,PR,None,None,None,None,None
+Orb of Hubris,ALC,024,SR,318,225,220,306,177
+Fractured Crown,FTC,024,UR,320,324,274,301,269
+Beastbond Paws,DOA Alter,025,C,137,103,171,114,219
+Beastbond Paws,DOA 1st,025,C,149,113,183,126,229
+Beastbond Paws,DOASD,017,C,None,None,None,None,None
+Beastbond Paws,FTCA,005,SR,153,113,183,131,220
+Resplendent Kite Shield,ALC,025,R,272,285,152,148,203
+Prototype Staff,ALCSD,025,R,None,None,None,None,None
+Prototype Staff,P24,013,PR,None,None,None,None,None
+Covenant of Thorns,FTC,025,R,190,184,216,241,229
+Quickdraw Piercer,ALCSD,026,U,None,None,None,None,None
+Quickdraw Piercer,P24,014,PR,None,None,None,None,None
+Rusted Warshield,ALC,026,R,177,266,148,171,298
+Blinding Orb,DOA Alter,026,R,298,184,177,241,160
+Blinding Orb,DOA 1st,026,R,317,196,190,260,177
+"Bedivere, Woodland Overseer",FTC,026,SR,230,225,273,257,261
+"Bedivere, Woodland Overseer",FTC,026,CSR,340,342,410,359,409
+Scale of Souls,ALCSD,027,U,None,None,None,None,None
+Scale of Souls,P24,015,PR,None,None,None,None,None
+Seeker's Rifle,ALC,027,R,196,135,152,260,317
+Chalice of Blood,DOA Alter,027,R,177,165,146,323,249
+Chalice of Blood,DOA 1st,027,R,190,177,158,349,266
+"Blanche, Sheltering Saint",FTC,027,SR,235,230,283,273,225
+"Blanche, Sheltering Saint",FTC,027,CSR,374,354,410,392,330
+Capricious Lynx,FTC,028,C,172,126,137,114,195
+Synth Disrupter,ALCSD,028,U,None,None,None,None,None
+Synth Disrupter,P24,016,PR,None,None,None,None,None
+Synthetic Core,ALC,028,R,272,146,141,298,203
+Channeling Stone,DOA Alter,028,R,241,171,184,304,160
+Channeling Stone,DOA 1st,028,R,260,184,196,329,171
+Arcanist's Prism,DOAp,028,SR,None,None,None,None,None
+Arcanist's Prism,DOASD,034,SR,None,None,None,None,None
+Arcanist's Prism,KSP,004,PR,0,0,0,0,0
+Cunning Broker,FTC,029,C,183,160,137,126,138
+Tasershot,ALCSD,029,R,None,None,None,None,None
+Tasershot,P24,017,PR,None,None,None,None,None
+Crystal of Argus,DOA Alter,029,R,234,158,222,272,174
+Crystal of Argus,DOA 1st,029,R,253,171,241,291,184
+Prismatic Edge,DOAp,029,SR,None,None,None,None,None
+Prismatic Edge,DOASD,035,SR,None,None,None,None,None
+Prismatic Edge,KSP,007,PR,0,0,0,0,0
+Temporal Spectrometer,ALC,029,UR,322,302,283,334,247
+Crystal of Empowerment,DOA Alter,030,C,194,103,149,206,92
+Crystal of Empowerment,DOA 1st,030,C,206,114,160,217,103
+Crystal of Empowerment,DOAp,013,C,None,None,None,None,None
+Crystal of Empowerment,DOASD,019,C,None,None,None,None,None
+Crystal of Empowerment,FTCA,006,SR,211,114,155,220,100
+Wayfinder's Map,ALC,030,R,184,247,177,304,148
+Worn Gearblade,ALCSD,030,R,None,None,None,None,None
+Worn Gearblade,P24,018,PR,None,None,None,None,None
+Caliburn of Silencing,DOAp,030,SR,None,None,None,None,None
+Caliburn of Silencing,DOASD,036,SR,None,None,None,None,None
+Dawn of Ashes,FTC,030,SR,235,230,214,278,289
+Develop Mana,FTC,031,C,137,149,126,195,137
+Curved Dagger,DOA Alter,031,U,224,120,136,152,261
+Curved Dagger,DOA 1st,031,U,240,128,144,160,288
+Curved Dagger,FTCA,007,SR,250,125,140,165,280
+Penetrator Round,ALCSD,031,R,None,None,None,None,None
+Penetrator Round,P24,019,PR,None,None,None,None,None
+Bombard Flarecannon,ALC,031,SR,241,198,193,306,308
+Seed of Nature,DOAp,031,SR,None,None,None,None,None
+Seed of Nature,DOASD,037,SR,None,None,None,None,None
+Fast Cure,FTC,032,C,126,137,172,195,114
+Fast Cure,P23,017,PR,None,None,None,None,None
+Deployment Beacon,ALCSD,032,R,None,None,None,None,None
+Deployment Beacon,P24,020,PR,None,None,None,None,None
+Forgelight Scepter,ALC,032,SR,247,182,204,307,306
+"Discordia, Harp of Malice",DOA Alter,032,SR,252,177,284,322,211
+"Discordia, Harp of Malice",DOA 1st,032,SR,273,188,306,348,225
+Fractal of Insight,FTC,033,C,149,172,114,206,103
+Heatwave Generator,ALC,033,R,152,171,152,300,285
+Cosmic Astroscope,ALCSD,033,R,None,None,None,None,None
+Cosmic Astroscope,P24,021,PR,None,None,None,None,None
+Drawn Blade,DOA Alter,033,R,260,209,216,140,235
+Drawn Blade,DOA 1st,033,R,279,228,234,152,247
+Drawn Blade,FTCA,008,SR,281,220,234,158,247
+Cascading Round,ALC,034,R,184,154,241,228,253
+Archon Broadsword,ALCSD,034,R,None,None,None,None,None
+Archon Broadsword,P24,022,PR,None,None,None,None,None
+"Excalibur, Cursed Sword",DOA Alter,034,SR,263,188,247,284,264
+"Excalibur, Cursed Sword",DOA 1st,034,SR,284,204,263,305,284
+"Gawain, Chivalrous Thief",FTC,034,SR,267,251,241,257,230
+"Gawain, Chivalrous Thief",EVP,004,CSR,307,322,381,320,270
+Conceal,DOAp,035,C,None,None,None,None,None
+Conceal,DOA Alter,076,U,200,168,143,207,175
+Conceal,DOA 1st,076,U,216,184,152,224,184
+Crystalline Mirror,ALC,035,R,285,152,184,298,141
+Eye of Argus,DOA Alter,035,R,234,184,210,254,178
+Eye of Argus,DOA 1st,035,R,254,196,228,272,190
+Gentle Respite,FTC,035,R,216,203,254,197,190
+Sentinel Fabricator,ALCSD,035,SR,None,None,None,None,None
+Sentinel Fabricator,P24,023,PR,None,None,None,None,None
+Imperious Highlander,FTC,036,C,160,183,137,114,150
+Imperious Highlander,P23,005,PR,None,None,None,None,None
+Fire Resonance Bauble,DOA Alter,036,U,160,144,168,214,207
+Fire Resonance Bauble,DOA 1st,036,U,176,152,184,232,216
+Fire Resonance Bauble,DOAp,015,U,None,None,None,None,None
+Fire Resonance Bauble,DOASD,021,U,None,None,None,None,None
+Fire Resonance Bauble,FTCA,010,SR,185,150,172,240,213
+Shadow's Twin,ALCSD,036,SR,None,None,None,None,None
+Shadow's Twin,P24,024,PR,None,None,None,None,None
+Magebane Lash,ALC,036,UR,274,256,315,302,341
+Brewing Kit,ALC,037,SR,295,188,204,318,241
+"Galatine, Sword of Sunlight",DOA Alter,037,SR,263,257,198,284,244
+"Galatine, Sword of Sunlight",DOA 1st,037,SR,284,279,214,306,257
+"Lancelot, Goliath of Aesa",FTC,037,SR,251,251,235,235,274
+"Lancelot, Goliath of Aesa",FTC,037,CSR,386,392,340,342,400
+Lurking Assailant,FTC,038,C,172,172,126,114,160
+Lurking Assailant,SLC,009,PR,None,None,None,None,None
+Turbulent Bullet,ALC,038,R,260,153,153,203,291
+Grand Crusader's Ring,DOA Alter,038,UR,297,302,302,375,212
+Grand Crusader's Ring,DOA 1st,038,UR,329,311,325,406,229
+Backstep,ALCSD,039,C,None,None,None,None,None
+Backstep,P24,025,PR,None,None,None,None,None
+Backstep,SLC,002,PR,None,None,None,None,None
+Jewel of Enlightenment,DOA Alter,039,U,184,160,168,221,160
+Jewel of Enlightenment,DOA 1st,039,U,200,176,184,240,160
+Jewel of Enlightenment,FTCA,011,SR,210,170,180,250,150
+"Morgan, Soul Guide",FTC,039,SR,246,235,278,267,220
+"Morgan, Soul Guide",FTC,039,CSR,370,360,400,398,332
+The Elysian Astrolabe,ALC,039,UR,304,288,274,357,265
+Life Essence Amulet,DOA Alter,040,C,149,126,171,194,104
+Life Essence Amulet,DOA 1st,040,C,160,137,183,206,114
+Life Essence Amulet,DOAp,017,C,None,None,None,None,None
+Life Essence Amulet,DOASD,023,C,None,None,None,None,None
+Life Essence Amulet,DEMO22,005,C,None,None,None,None,None
+Life Essence Amulet,DEMO23,005,C,None,None,None,None,None
+Life Essence Amulet,ALCSD,020,U,None,None,None,None,None
+Life Essence Amulet,P24,008,PR,None,None,None,None,None
+Ordinary Bear,FTC,040,C,149,160,137,114,184
+Ordinary Bear,P23,016,PR,None,None,None,None,None
+Gloamspire Lance,ALC,040,UR,274,288,265,320,341
+Academy Attendant,ALC,041,C,149,160,138,160,137
+Academy Attendant,ALCSD,037,C,None,None,None,None,None
+Peaceful Reunion,FTC,041,C,172,195,160,114,103
+Mana Limiter,DOA Alter,041,U,192,160,168,240,133
+Mana Limiter,DOA 1st,041,U,208,168,184,256,144
+Mana Limiter,DOAp,018,U,None,None,None,None,None
+Mana Limiter,DOASD,024,U,None,None,None,None,None
+Mana Limiter,FTCA,012,SR,215,160,180,265,140
+Academy Guide,ALC,042,SR,257,214,293,273,209
+Map of Hidden Passage,DOA Alter,042,SR,268,225,236,322,195
+Map of Hidden Passage,DOA 1st,042,SR,289,241,252,349,209
+Prismatic Sanctuary,FTC,042,SR,257,241,234,289,225
+Evasive Maneuvers,ALCSD,043,C,None,None,None,None,None
+Evasive Maneuvers,P24,026,PR,None,None,None,None,None
+Allied Warpriestess,ALC,043,U,184,189,176,160,184
+Allied Warpriestess,SLC,001,PR,None,None,None,None,None
+Melodious Flute,DOA Alter,043,U,176,160,208,215,134
+Melodious Flute,DOA 1st,043,U,192,176,224,232,136
+Melodious Flute,DOASD,025,U,None,None,None,None,None
+Melodious Flute,FTCA,013,SR,195,176,220,239,130
+Resolute Stand,FTC,043,U,175,183,160,160,215
+Resolute Stand,SLC,012,PR,None,None,None,None,None
+Resolute Stand,SLC,012,CPR,None,None,None,None,None
+Automaton Drone,ALC,044,C,138,138,171,126,171
+Automaton Drone,ALCSD,038,C,None,None,None,None,None
+Foraging Servant,ALCSD,044,C,None,None,None,None,None
+Foraging Servant,P24,027,PR,None,None,None,None,None
+Orb of Glitter,DOA Alter,044,SR,316,225,230,295,180
+Orb of Glitter,DOA 1st,044,SR,338,241,247,316,198
+Orb of Glitter,DOAp,020KS,SR,None,None,None,None,None
+Orb of Glitter,P23,014,PR,None,None,None,None,None
+Right of Realm,FTC,044,UR,320,288,283,301,296
+Barter Herbs,ALC,045,C,149,160,171,150,114
+Barter Herbs,ALCSD,040,C,None,None,None,None,None
+Fortified Mana Shield,ALCSD,045,C,None,None,None,None,None
+Fortified Mana Shield,P24,028,PR,None,None,None,None,None
+Scavenging Raccoon,FTC,045,C,172,137,172,114,149
+Scavenging Raccoon,P23,004,PR,None,None,None,None,None
+Orb of Regret,DOA Alter,045,SR,295,247,252,257,195
+Orb of Regret,DOA 1st,045,SR,316,263,268,279,214
+Orb of Regret,P23,013,PR,None,None,None,None,None
+Blightroot,ALC,046,C,138,149,149,171,137
+Blightroot,ALCSD,041,C,None,None,None,None,None
+Ornamental Greatsword,DOA Alter,046,C,183,114,137,126,184
+Ornamental Greatsword,DOA 1st,046,C,194,126,149,137,194
+Ornamental Greatsword,DOAp,021,C,None,None,None,None,None
+Ornamental Greatsword,DOASD,027,C,None,None,None,None,None
+Ornamental Greatsword,DEMO22,006,C,None,None,None,None,None
+Ornamental Greatsword,DEMO23,006,C,None,None,None,None,None
+Ornamental Greatsword,FTCA,014,SR,200,120,145,145,190
+Seeking Shot,FTC,046,C,172,149,103,137,183
+Caretaker Drone,ALC,047,C,171,137,183,149,104
+Caretaker Drone,ALCSD,042,C,None,None,None,None,None
+Heavy Swing,ALCSD,047,C,None,None,None,None,None
+Heavy Swing,P24,029,PR,None,None,None,None,None
+Poisoned Coating Oil,DOA Alter,047,R,196,158,215,260,231
+Poisoned Coating Oil,DOA 1st,047,R,209,171,234,279,247
+Idle Thoughts,ALCSD,048,C,None,None,None,None,None
+Idle Thoughts,DOA Alter,092,C,149,194,126,171,104
+Idle Thoughts,DOA 1st,092,C,160,206,137,183,114
+Idle Thoughts,DOAp,045,C,None,None,None,None,None
+Idle Thoughts,DOASD,048,C,None,None,None,None,None
+Idle Thoughts,GSC,005,PR,0,0,0,0,0
+Steady Verse,FTC,048,C,137,137,183,160,127
+Deploy Gunshield,ALC,048,U,184,189,184,184,152
+Poisoned Dagger,DOA Alter,048,U,184,168,144,160,237
+Poisoned Dagger,DOA 1st,048,U,200,184,152,168,256
+Poisoned Dagger,FTCA,015,SR,205,180,150,175,250
+Imperial Recruit,ALCSD,049,C,None,None,None,None,None
+Imperial Recruit,P24,030,PR,None,None,None,None,None
+Imperial Recruit,SLC,007,PR,None,None,None,None,None
+Thieving Cut,FTC,049,C,172,160,114,126,172
+Safeguard Amulet,DOA Alter,049,U,205,160,184,192,152
+Safeguard Amulet,DOA 1st,049,U,224,176,200,208,152
+Safeguard Amulet,FTCA,017,SR,230,175,190,215,150
+Distilled Atrophy,ALC,049,R,196,166,166,253,279
+Imperial Rifleman,ALCSD,050,C,None,None,None,None,None
+Imperial Rifleman,P24,031,PR,None,None,None,None,None
+Sealed Blade,DOA Alter,050,C,160,103,114,194,173
+Sealed Blade,DOA 1st,050,C,171,114,126,206,183
+Blazing Bowman,FTC,050,C,137,172,114,137,184
+Dusklight Communion,ALC,050,SR,241,241,260,252,252
+Empowering Prayer,ALC,051,C,149,137,171,160,127
+Imperial Sentry,ALCSD,051,C,None,None,None,None,None
+Imperial Sentry,P24,032,PR,None,None,None,None,None
+Seer's Sword,DOA Alter,051,U,173,160,160,200,200
+Seer's Sword,DOA 1st,051,U,192,176,168,216,208
+Seer's Sword,DOAp,022,U,None,None,None,None,None
+Seer's Sword,DEMO22,007,U,None,None,None,None,None
+Seer's Sword,FTCA,018,SR,230,175,190,215,150
+Corhazi Arsonist,FTC,051,U,167,159,207,167,193
+Empowering Tincture,ALC,052,C,149,149,137,171,138
+Sharpening Stone,DOA Alter,052,C,171,137,160,114,162
+Sharpening Stone,DOA 1st,052,C,183,149,171,126,171
+Sharpening Stone,DEMO22,008,C,None,None,None,None,None
+Sharpening Stone,FTCA,019,SR,200,170,167,223,200
+Flamebreak Chorus,FTC,052,C,137,137,183,172,115
+Escape the Wreckage,ALC,053,C,137,160,127,149,171
+Smoke Bombs,DOA Alter,053,C,137,126,137,183,161
+Smoke Bombs,DOA 1st,053,C,149,137,149,194,171
+Smoke Bombs,FTCA,020,SR,187,145,168,135,165
+Hone by Fire,FTC,053,C,160,160,114,137,173
+Martial Guard,ALCSD,054,C,None,None,None,None,None
+Martial Guard,P24,033,PR,None,None,None,None,None
+Incendiary Fractal,FTC,054,C,149,137,114,172,172
+Surveillance Stone,DOA Alter,054,U,192,168,160,221,152
+Surveillance Stone,DOA 1st,054,U,208,184,176,240,152
+Surveillance Stone,DOAp,023,U,None,None,None,None,None
+Surveillance Stone,DOASD,028,U,None,None,None,None,None
+Surveillance Stone,FTCA,021,SR,155,137,143,200,165
+Exalted Dorumegian Throne,ALC,054,R,203,285,161,177,234
+Exorcise Curses,ALC,055,C,137,149,129,169,160
+Materialize Munitions,ALCSD,055,C,None,None,None,None,None
+Materialize Munitions,P24,034,PR,None,None,None,None,None
+Sword of Adversity,DOA Alter,055,R,228,222,190,215,205
+Sword of Adversity,DOA 1st,055,R,247,241,203,234,215
+Innervate Fury,FTC,055,R,202,197,197,229,235
+Fraysia,ALC,056,C,160,137,171,149,127
+Fraysia,ALCSD,046,C,None,None,None,None,None
+Novice Mechanist,ALCSD,056,C,None,None,None,None,None
+Novice Mechanist,P24,035,PR,None,None,None,None,None
+Sword of Seeking,DOA Alter,056,U,184,168,160,181,200
+Sword of Seeking,DOA 1st,056,U,200,184,168,200,208
+Sword of Seeking,DOAp,024,U,None,None,None,None,None
+Sword of Seeking,DOASD,029,U,None,None,None,None,None
+Sword of Seeking,DEMO23,007,U,None,None,None,None,None
+Sword of Seeking,FTCA,022,SR,215,180,170,245,150
+Red Slime,FTC,056,U,167,159,215,167,185
+Tome of Knowledge,DOA Alter,057,U,184,160,192,213,144
+Tome of Knowledge,DOA 1st,057,U,200,176,208,232,144
+Tome of Knowledge,DOAp,025,U,None,None,None,None,None
+Tome of Knowledge,DOASD,030,U,None,None,None,None,None
+Tome of Knowledge,FTCA,023,SR,210,180,162,208,200
+Varuckan Acolyte,FTC,057,U,159,151,207,191,185
+Varuckan Acolyte,SLC,014,PR,None,None,None,None,None
+"Freydis, Master Tactician",ALC,057,SR,247,291,263,204,241
+Harvest Herbs,ALC,058,C,149,137,160,171,127
+Warrior's Longsword,DOA Alter,058,U,216,184,152,141,200
+Warrior's Longsword,DOA 1st,058,U,232,200,160,152,216
+Warrior's Longsword,DOAp,026,U,None,None,None,None,None
+Warrior's Longsword,DOASD,031,U,None,None,None,None,None
+Warrior's Longsword,DEMO22,009,U,None,None,None,None,None
+Warrior's Longsword,DEMO23,008,U,None,None,None,None,None
+Warrior's Longsword,FTCA,024,SR,207,170,203,240,140
+Corhazi Trapper,FTC,058,U,191,175,159,183,185
+Healing Aura,ALC,059,C,149,137,160,183,115
+Healing Aura,SLC,005,PR,None,None,None,None,None
+Deep Sea Fractal,FTC,059,C,149,149,137,195,114
+Water Resonance Bauble,DOA Alter,059,U,192,160,160,240,141
+Water Resonance Bauble,DOA 1st,059,U,208,168,176,256,152
+Water Resonance Bauble,DOASD,032,U,None,None,None,None,None
+Water Resonance Bauble,FTCA,025,SR,235,203,155,157,210
+Into the Fray,ALC,060,C,160,160,137,127,160
+Into the Fray,ALCSD,052,C,None,None,None,None,None
+Wind Resonance Bauble,DOA Alter,060,U,200,160,176,213,144
+Wind Resonance Bauble,DOA 1st,060,U,216,176,192,232,144
+Wind Resonance Bauble,DOAp,027,U,None,None,None,None,None
+Wind Resonance Bauble,DOASD,033,U,None,None,None,None,None
+Wind Resonance Bauble,FTCA,026,SR,209,168,176,260,147
+Fractal of Intrusion,FTC,060,R,197,190,209,248,216
+Storm Tyrant's Eye,DOA Alter,061,R,203,190,184,249,234
+Storm Tyrant's Eye,DOA 1st,061,R,215,203,196,266,260
+Fracturize,FTC,061,R,190,190,229,254,197
+"Lena, Dorumegia's Herald",ALC,061,SR,236,241,292,204,273
+Lone Gunslinger,ALC,062,C,160,149,160,137,138
+Frostbind,FTC,062,U,144,151,207,223,168
+Tome of Sacred Lightning,DOA Alter,062,UR,274,274,329,347,264
+Tome of Sacred Lightning,DOA 1st,062,UR,306,315,274,376,329
+Manaroot,ALC,063,C,160,137,149,171,127
+Manaroot,ALCSD,053,C,None,None,None,None,None
+Woodland Squirrels,DOAp,063,C,None,None,None,None,None
+Woodland Squirrels,DOA Alter,117,U,184,144,293,152,120
+Woodland Squirrels,DOA 1st,117,U,200,152,320,160,128
+Woodland Squirrels,SP1,019,U,167,167,239,191,128
+Frostbinder Apostle,FTC,063,U,175,159,199,207,153
+Majestic Spirit's Crest,DOA Alter,063,UR,274,283,302,341,288
+Majestic Spirit's Crest,DOA 1st,063,UR,297,329,261,370,343
+Stalwart Shieldmate,ALCSD,064,C,None,None,None,None,None
+Stalwart Shieldmate,FTC,047,C,149,172,149,114,160
+Stalwart Shieldmate,P24,036,PR,None,None,None,None,None
+Navigate the Streets,ALC,064,U,206,152,207,184,144
+Navigate the Streets,SLC,010,PR,None,None,None,None,None
+Guarded Dissipation,FTC,064,U,175,199,159,167,193
+Sword of Avarice,DOA Alter,064,R,234,196,171,241,218
+Sword of Avarice,DOA 1st,064,R,253,209,184,260,234
+Oasis Trading Post,ALC,065,C,171,149,137,160,127
+"Carnwennan, Shrouded Edge",DOA Alter,065,R,222,228,184,215,211
+"Carnwennan, Shrouded Edge",DOA 1st,065,R,241,247,196,234,222
+Innervate Knowledge,FTC,065,R,209,197,229,235,190
+Organize the Alliance,ALC,066,C,149,160,115,160,160
+Ocean's Blessing,FTC,066,U,151,167,207,201,167
+Luxera's Map,DOA Alter,066,UR,320,261,325,331,251
+Luxera's Map,DOA 1st,066,UR,347,283,334,366,270
+Palatial Concourse,ALC,067,C,160,160,127,171,126
+Protective Fractal,FTC,067,C,149,160,114,183,138
+Gaia's Blessing,DOA Alter,067,UR,311,304,329,329,215
+Gaia's Blessing,DOA 1st,067,UR,334,325,347,365,229
+Plea for Peace,ALC,068,C,160,160,126,149,149
+Take Point,ALCSD,068,C,None,None,None,None,None
+Take Point,P24,037,PR,None,None,None,None,None
+Devastating Blow,DOAp,068,U,None,None,None,None,None
+Devastating Blow,DOA Alter,127,R,228,222,171,184,255
+Devastating Blow,DOA 1st,127,R,247,241,184,196,272
+Refracting Missile,FTC,068,U,175,159,151,215,193
+Horn of Beastcalling,DOA Alter,068,R,237,215,177,222,209
+Horn of Beastcalling,DOA 1st,068,R,247,234,190,241,228
+Potion of Healing,ALC,069,C,149,160,137,171,127
+Potion of Healing,ALCSD,057,C,None,None,None,None,None
+Potion of Healing,SLC,011,PR,None,None,None,None,None
+Accepted Contract,DOA Alter,069,C,171,126,183,160,104
+Accepted Contract,DOA 1st,069,C,183,137,195,171,114
+Riptide Slash,FTC,069,C,160,160,114,126,184
+Backstab,DOA Alter,070,C,160,137,103,137,207
+Backstab,DOA 1st,070,C,171,149,114,149,217
+Song of Frost,FTC,070,C,137,160,126,183,138
+Raze the Land,ALC,070,U,152,184,152,184,221
+Razorvine,ALC,071,C,171,160,149,149,115
+Razorvine,ALCSD,058,C,None,None,None,None,None
+Banner Knight,DOA Alter,071,C,149,183,137,126,149
+Banner Knight,DOA 1st,071,C,160,194,149,137,160
+Banner Knight,DOAp,032,C,None,None,None,None,None
+Banner Knight,DOASD,038,C,None,None,None,None,None
+Banner Knight,DEMO22,010,C,None,None,None,None,None
+Banner Knight,DEMO23,009,C,None,None,None,None,None
+Banner Knight,P22,007,CPR,None,None,None,None,None
+Anthem of Vitality,FTC,071,C,126,137,137,160,184
+Reconstructive Surgery,ALC,072,C,160,160,149,115,160
+Barrier Servant,DOA Alter,072,C,149,137,171,183,104
+Barrier Servant,DOA 1st,072,C,160,149,183,194,114
+Barrier Servant,DOAp,033,C,None,None,None,None,None
+Barrier Servant,DOASD,039,C,None,None,None,None,None
+Barrier Servant,SP1,002,R,203,197,254,241,165
+Corhazi Outlook,FTC,072,U,183,175,201,167,167
+Reposition,ALC,073,C,149,160,127,137,171
+Reposition,ALCSD,059,C,None,None,None,None,None
+Incendiary Shot,ALCSD,073,C,None,None,None,None,None
+Incendiary Shot,P24,038,PR,None,None,None,None,None
+Blissful Calling,DOA Alter,073,C,149,126,206,171,92
+Blissful Calling,DOA 1st,073,C,160,137,217,183,103
+Blissful Calling,DOASD,040,C,None,None,None,None,None
+Dematerialize,FTC,073,C,160,137,137,183,127
+Sanctum of Esoteric Truth,ALC,074,C,160,160,137,160,127
+Careful Study,DOA Alter,074,C,171,160,114,194,105
+Careful Study,DOA 1st,074,C,183,171,126,206,114
+Careful Study,DOAp,034,C,None,None,None,None,None
+Careful Study,DOASD,041,C,None,None,None,None,None
+Displace,FTC,074,R,222,197,222,235,184
+Scavenge the Distillery,ALC,075,U,176,152,152,192,221
+Essence of Blizzards,ALCSD,075,U,None,None,None,None,None
+Essence of Blizzards,P24,039,PR,None,None,None,None,None
+Clean Cut,DOA Alter,075,U,216,184,167,143,183
+Clean Cut,DOA 1st,075,U,232,200,184,152,192
+Green Slime,FTC,075,U,191,159,223,175,145
+Scry the Skies,ALC,076,C,160,114,183,206,81
+Scry the Skies,ALCSD,060,C,None,None,None,None,None
+Scry the Skies,DOA Alter,108,C,160,114,183,206,81
+Scry the Skies,DOA 1st,108,C,171,126,194,218,91
+Scry the Skies,DOAp,057,C,None,None,None,None,None
+Scry the Skies,DOASD,056,C,None,None,None,None,None
+Innervate Agility,FTC,076,R,229,197,222,215,197
+Intrepid Spearman,FTC,077,C,149,149,183,126,137
+Seasoned Shieldmaster,ALC,077,SR,257,319,193,209,268
+Coup de Grace,DOA Alter,077,SR,279,241,236,225,265
+Coup de Grace,DOA 1st,077,SR,300,257,252,241,290
+Serum of Wisdom,ALC,078,C,183,137,126,194,104
+Serum of Wisdom,ALCSD,061,C,None,None,None,None,None
+Cram Session,DOA Alter,078,C,149,171,114,171,139
+Cram Session,DOA 1st,078,C,160,182,126,183,149
+Mark of Fervor,FTC,078,C,183,126,137,161,137
+Sidestep,ALC,079,C,149,93,137,171,194
+Crusader of Aesa,DOA Alter,079,C,137,183,137,126,161
+Crusader of Aesa,DOA 1st,079,C,149,194,149,137,171
+Crusader of Aesa,DOAp,036,C,None,None,None,None,None
+Crusader of Aesa,DOASD,042,C,None,None,None,None,None
+Crusader of Aesa,DEMO22,011,C,None,None,None,None,None
+Crusader of Aesa,DEMO23,010,C,None,None,None,None,None
+"Parcenet, Royal Maid",FTC,079,R,222,216,241,197,184
+"Parcenet, Royal Maid",EVP,005,CSR,342,318,383,300,257
+Silvershine,ALC,080,C,160,137,149,183,115
+Silvershine,ALCSD,062,C,None,None,None,None,None
+Deflecting Edge,DOA Alter,080,C,183,171,126,103,161
+Deflecting Edge,DOA 1st,080,C,194,183,138,114,171
+Deflecting Edge,DOAp,037,C,None,None,None,None,None
+Deflecting Edge,DOASD,043,C,None,None,None,None,None
+Deflecting Edge,DEMO23,011,C,None,None,None,None,None
+Deflecting Edge,P23,001,PR,None,None,None,None,None
+Rending Flames,DOAp,080,U,None,None,None,None,None
+Rending Flames,DOA Alter,151,R,224,215,190,184,247
+Rending Flames,DOA 1st,151,R,241,234,203,196,266
+Rending Flames,SP1,013,SR,246,251,214,257,278
+Rally the Peasants,FTC,080,U,175,175,193,175,175
+Springleaf,ALC,081,C,160,149,160,160,115
+Springleaf,ALCSD,063,C,None,None,None,None,None
+Scatter Essence,FTC,081,U,175,209,175,151,183
+Dungeon Guide,DOA Alter,081,R,209,215,241,222,173
+Dungeon Guide,DOA 1st,081,R,222,234,260,240,184
+Dungeon Guide,DOAp,038,R,None,None,None,None,None
+Dungeon Guide,DOAp,038KS,R,None,None,None,None,None
+Dungeon Guide,P22,001,PR,0,0,0,0,0
+Strategic Warfare,ALC,082,C,149,183,171,115,126
+Eager Page,DOA Alter,082,C,160,171,126,149,138
+Eager Page,DOA 1st,082,C,171,183,137,160,149
+Windrider Invoker,FTC,082,U,183,168,191,191,160
+Study the Fables,ALC,083,C,160,149,160,183,92
+Study the Fables,SLC,013,PR,None,None,None,None,None
+Empowering Harmony,DOA Alter,083,C,160,126,183,171,104
+Empowering Harmony,DOA 1st,083,C,171,137,195,183,114
+Empowering Harmony,DOASD,044,C,None,None,None,None,None
+Empowering Harmony,GSC,002,PR,0,0,0,0,0
+Tempered Steel,DOAp,083,C,None,None,None,None,None
+Tempered Steel,DOA Alter,157,U,209,193,145,169,177
+Tempered Steel,DOA 1st,157,U,224,208,152,184,192
+Tempered Steel,DEMO23,023,U,None,None,None,None,None
+Water Barrier,ALCSD,083,U,None,None,None,None,None
+Water Barrier,DOA Alter,197,U,189,168,152,232,152
+Water Barrier,DOA 1st,197,U,208,184,160,248,160
+Shock Therapy,FTC,083,R,209,203,197,235,216
+Subjugating Lash,ALC,084,C,115,115,206,114,194
+Enraged Boars,DOA Alter,084,C,149,137,114,103,241
+Enraged Boars,DOA 1st,084,C,160,149,126,114,251
+Enraged Boars,DOAp,039,C,None,None,None,None,None
+Voltaic Sphere,FTC,084,SR,241,241,214,272,278
+Esteemed Knight,DOA Alter,085,C,137,206,171,91,139
+Esteemed Knight,DOA 1st,085,C,149,216,183,103,149
+Esteemed Knight,DOAp,040,C,None,None,None,None,None
+Esteemed Knight,DOASD,045,C,None,None,None,None,None
+Esteemed Knight,DEMO22,012,C,None,None,None,None,None
+Esteemed Knight,DEMO23,012,C,None,None,None,None,None
+Esteemed Knight,SP1,005,U,199,199,191,144,160
+Supply Drone,ALC,085,U,168,208,144,152,221
+Supply Drone,ALCSD,065,U,None,None,None,None,None
+Recruitment Officer,ALCSD,085,U,None,None,None,None,None
+Recruitment Officer,P24,040,PR,None,None,None,None,None
+Incarnate Majesty,FTC,085,SR,235,246,225,273,267
+Swooping Talons,ALC,086,U,176,168,136,184,229
+Slay the King,FTC,086,R,209,209,197,197,248
+Fervent Beastmaster,DOA Alter,086,SR,225,214,273,241,293
+Fervent Beastmaster,DOA 1st,086,SR,241,230,295,257,317
+Take Aim,ALC,087,C,149,137,160,115,183
+Take Aim,ALCSD,066,C,None,None,None,None,None
+Illuminate Secrets,FTC,087,R,222,216,197,229,196
+"Galahad, Court Knight",DOA Alter,087,SR,257,306,230,193,260
+"Galahad, Court Knight",DOA 1st,087,SR,279,326,247,209,279
+"Galahad, Court Knight",DOAp,041KS,SR,None,None,None,None,None
+Take Cover,ALC,088,R,196,158,260,155,291
+Take Cover,ALCSD,067,R,None,None,None,None,None
+"Gildas, Chronicler of Aesa",DOA Alter,088,SR,252,225,289,306,174
+"Gildas, Chronicler of Aesa",DOA 1st,088,SR,273,241,311,327,188
+"Gildas, Chronicler of Aesa",DOAp,042KS,SR,None,None,None,None,None
+"Gildas, Chronicler of Aesa",SP1,009,CSR,270,270,340,310,210
+"Uther, Illustrious King",FTC,088,SR,257,278,246,230,235
+"Uther, Illustrious King",EVP,006,CSR,324,360,282,301,333
+Gray Wolf,DOA Alter,089,C,160,126,171,91,196
+Gray Wolf,DOA 1st,089,C,171,137,183,103,206
+Gray Wolf,DOAp,043,C,None,None,None,None,None
+Gray Wolf,DOASD,046,C,None,None,None,None,None
+Gray Wolf,SP1,024,PR,None,None,None,None,None
+Avatar of Gaia,FTC,089,R,203,209,241,222,185
+The Eternal Kingdom,ALC,089,UR,325,340,270,320,233
+Trained Sharpshooter,ALC,090,C,160,137,183,115,149
+Trained Sharpshooter,ALCSD,069,C,None,None,None,None,None
+Harness Mana,DOA Alter,090,C,137,114,171,217,105
+Harness Mana,DOA 1st,090,C,149,125,183,229,114
+"Kraal, Stonescale Tyrant",FTC,090,SR,241,251,225,257,272
+"Kraal, Stonescale Tyrant",FTC,090,CSR,392,392,392,392,330
+Unearth Revelations,ALC,091,C,137,116,137,194,160
+Honorable Vanguard,DOA Alter,091,C,149,183,160,114,138
+Honorable Vanguard,DOA 1st,091,C,160,194,171,126,149
+Honorable Vanguard,DOAp,044,C,None,None,None,None,None
+Honorable Vanguard,DOASD,047,C,None,None,None,None,None
+Honorable Vanguard,DEMO22,013,C,None,None,None,None,None
+Honorable Vanguard,DEMO23,013,C,None,None,None,None,None
+Honorable Vanguard,P22,002,PR,0,0,0,0,0
+Vanish from Sight,ALC,092,U,184,144,229,136,200
+Cosmic Bolt,ALCSD,092,U,None,None,None,None,None
+Cosmic Bolt,P24,041,PR,None,None,None,None,None
+Ravaging Tempest,DOAp,092KS,R,None,None,None,None,None
+Ravaging Tempest,DOA Alter,219,SR,252,225,182,284,303
+Ravaging Tempest,DOA 1st,219,SR,273,241,198,306,322
+Inspiring Call,DOA Alter,093,C,160,171,149,103,161
+Inspiring Call,DOA 1st,093,C,171,183,160,115,171
+Inspiring Call,DOAp,046,C,None,None,None,None,None
+Inspiring Call,DOASD,049,C,None,None,None,None,None
+Inspiring Call,DEMO23,014,C,None,None,None,None,None
+Inspiring Call,DEMO22,014,U,None,None,None,None,None
+Inspiring Call,P23,006,PR,None,None,None,None,None
+Inspiring Call,P23,006,CPR,None,None,None,None,None
+Reclaim,DOAp,093,C,None,None,None,None,None
+Reclaim,DOA Alter,220,U,200,176,120,237,160
+Reclaim,DOA 1st,220,U,216,192,128,256,168
+Reclaim,DOASD,087,U,None,None,None,None,None
+Reclaim,DEMO23,025,U,None,None,None,None,None
+Reclaim,SP1,012,R,229,216,197,240,178
+Airship Cannoneer,ALC,093,U,192,160,205,152,184
+Airship Engineer,ALC,094,C,183,137,137,116,171
+Airship Engineer,ALCSD,070,C,None,None,None,None,None
+Invigorated Slash,DOA Alter,094,C,183,160,103,137,161
+Invigorated Slash,DOA 1st,094,C,194,171,114,150,171
+Invigorated Slash,DOAp,047,U,None,None,None,None,None
+Juggle Knives,DOA Alter,095,C,183,137,126,149,149
+Juggle Knives,DOA 1st,095,C,217,115,137,171,160
+Attune with Flames,ALC,095,R,204,204,209,209,234
+Automaton Bomber,ALC,096,C,137,116,149,171,171
+Automaton Bomber,ALCSD,071,C,None,None,None,None,None
+Kingdom Informant,DOA Alter,096,C,137,160,183,103,161
+Kingdom Informant,DOA 1st,096,C,149,171,195,114,171
+Kingdom Informant,P22,005,PR,0,0,0,0,0
+Blazing Charge,ALC,097,C,137,160,115,149,183
+Library Witch,DOA Alter,097,C,137,137,194,171,105
+Library Witch,DOA 1st,097,C,149,149,205,183,114
+Library Witch,DOAp,048,C,None,None,None,None,None
+Library Witch,DOASD,050,C,None,None,None,None,None
+Library Witch,KSP,008,PR,0,0,0,0,0
+Tactful Sergeant,DOAp,097,U,None,None,None,None,None
+Tactful Sergeant,DOA Alter,226,R,222,235,216,191,196
+Tactful Sergeant,DOA 1st,226,R,241,253,234,203,209
+Bottled Forgelight,ALC,098,C,149,137,115,183,160
+Magus Disciple,DOA Alter,098,C,126,137,183,171,127
+Magus Disciple,DOA 1st,098,C,137,149,194,183,137
+Magus Disciple,DOAp,049,C,None,None,None,None,None
+Magus Disciple,DOASD,051,C,None,None,None,None,None
+Crimson Tear,ALC,099,SR,209,177,308,225,327
+Crimson Tear,ALC 1st,099,CSR,309,281,410,397,463
+"Nimue, Cursed Touch",DOA Alter,099,SR,241,204,300,289,212
+"Nimue, Cursed Touch",DOA 1st,099,SR,257,220,322,311,230
+"Nimue, Cursed Touch",DOAp,050KS,SR,None,None,None,None,None
+"Nimue, Cursed Touch",SP1,011,CSR,270,260,320,330,220
+Excoriate,ALC,100,C,137,116,160,171,160
+Opening Cut,DOA Alter,100,C,171,160,91,126,196
+Opening Cut,DOA 1st,100,C,183,171,103,137,206
+Opening Cut,DOAp,051,C,None,None,None,None,None
+Opening Cut,DOASD,052,C,None,None,None,None,None
+Opening Cut,DEMO22,015,C,None,None,None,None,None
+Owl Familiar,DOA Alter,101,C,149,171,171,137,116
+Owl Familiar,DOA 1st,101,C,160,183,183,149,125
+Owl Familiar,DOAp,052,C,None,None,None,None,None
+Explosive Fractal,ALC,101,U,184,144,128,208,229
+Anger the Skies,DOAp,101,U,None,None,None,None,None
+Anger the Skies,DOA Alter,238,R,196,215,159,267,223
+Anger the Skies,DOA 1st,238,R,209,234,171,285,241
+Anger the Skies,DOASD,090,R,None,None,None,None,None
+Peer into Mana,DOA Alter,102,C,171,137,137,194,105
+Peer into Mana,DOA 1st,102,C,182,149,149,206,114
+Peer into Mana,DOAp,053,C,None,None,None,None,None
+Peer into Mana,DOASD,053,C,None,None,None,None,None
+Fanatical Devotee,ALC,102,U,144,128,237,184,200
+Fiery Duelist,ALC,103,C,126,115,183,160,160
+Port Smuggler,DOA Alter,103,C,183,137,183,114,127
+Port Smuggler,DOA 1st,103,C,194,149,194,126,137
+Rebellious Bull,DOA Alter,104,C,126,171,137,91,219
+Rebellious Bull,DOA 1st,104,C,137,182,149,103,229
+Rebellious Bull,DOASD,054,C,None,None,None,None,None
+Fiery Warcry,ALC,104,U,144,184,136,200,229
+Reckless Slash,DOA Alter,105,C,171,160,114,114,185
+Reckless Slash,DOA 1st,105,C,183,171,126,126,194
+Reckless Slash,DOAp,054,C,None,None,None,None,None
+Reckless Slash,DEMO22,016,C,None,None,None,None,None
+Power Overwhelming,DOAp,105,R,None,None,None,None,None
+Power Overwhelming,DOAp,105KS,R,None,None,None,None,None
+Power Overwhelming,DOA Alter,245,SR,252,225,204,284,281
+Power Overwhelming,DOA 1st,245,SR,268,240,220,306,306
+Power Overwhelming,DOASD,094,SR,None,None,None,None,None
+Fireblooded Oath,ALC,105,SR,230,273,225,257,261
+Refurbish,DOA Alter,106,C,183,171,149,114,127
+Refurbish,DOA 1st,106,C,194,183,160,126,137
+Refurbish,DOAp,055,C,None,None,None,None,None
+Firetuned Automaton,ALC,106,U,152,192,144,184,221
+Savage Slash,DOA Alter,107,C,171,160,137,103,173
+Savage Slash,DOA 1st,107,C,183,171,149,114,183
+Savage Slash,DOAp,056,C,None,None,None,None,None
+Savage Slash,DOASD,055,C,None,None,None,None,None
+Savage Slash,DEMO23,015,C,None,None,None,None,None
+Fireworks Display,ALC,107,U,160,144,208,144,237
+Flameblessed Trainee,ALC,108,C,149,149,160,160,126
+Smack with Flute,DOA Alter,109,C,171,114,194,94,171
+Smack with Flute,DOA 1st,109,C,183,126,205,103,183
+Smack with Flute,DOASD,057,C,None,None,None,None,None
+Force Load,ALC,109,U,160,168,144,200,221
+Force Load,ALCSD,072,U,None,None,None,None,None
+Force Load,SLC,004,PR,None,None,None,None,None
+Forgelight Shieldmaiden,ALC,110,C,137,137,183,116,171
+Song of Nurturing,DOA Alter,110,C,160,137,171,183,93
+Song of Nurturing,DOA 1st,110,C,171,149,183,194,103
+Song of Nurturing,DOASD,058,C,None,None,None,None,None
+Strategic Planning,DOA Alter,111,C,149,183,137,160,115
+Strategic Planning,DOA 1st,111,C,160,194,149,171,126
+Strategic Planning,GSC,003,PR,0,0,0,0,0
+Spirit Blade: Dispersion,DOAp,111,R,None,None,None,None,None
+Spirit Blade: Dispersion,DOAp,111KS,R,None,None,None,None,None
+Spirit Blade: Dispersion,DOA Alter,252,SR,230,225,250,284,257
+Spirit Blade: Dispersion,DOA 1st,252,SR,247,240,268,306,279
+Spirit Blade: Dispersion,DOASD,098,SR,None,None,None,None,None
+"Gloamspire, Black Market",ALC,111,SR,188,182,230,316,330
+Sudden Steel,DOA Alter,112,C,171,160,126,103,184
+Sudden Steel,DOA 1st,112,C,183,171,137,114,195
+Sudden Steel,DOAp,058,C,None,None,None,None,None
+Sudden Steel,DOASD,059,C,None,None,None,None,None
+Sudden Steel,DEMO22,017,U,None,None,None,None,None
+"Inzali, Unshackled Blaze",ALC,112,SR,225,188,230,303,300
+Training Session,DOA Alter,113,C,160,183,91,103,207
+Training Session,DOA 1st,113,C,171,194,103,114,218
+Training Session,DOAp,059,C,None,None,None,None,None
+Training Session,DOASD,060,C,None,None,None,None,None
+Lavaheated Brew,ALC,113,U,176,160,136,200,221
+Spirit Blade: Infusion,DOAp,113,U,None,None,None,None,None
+Spirit Blade: Infusion,DOA Alter,255,R,222,190,196,237,215
+Spirit Blade: Infusion,DOA 1st,255,R,241,203,209,253,234
+Spirit Blade: Infusion,DOASD,100,R,None,None,None,None,None
+Manic Zealot,ALC,114,C,137,127,171,126,183
+Trusty Steed,DOA Alter,114,C,160,183,160,114,127
+Trusty Steed,DOA 1st,114,C,171,195,171,126,137
+Trusty Steed,DOAp,060,C,None,None,None,None,None
+Trusty Steed,DOASD,061,C,None,None,None,None,None
+Trusty Steed,DEMO22,018,C,None,None,None,None,None
+Trusty Steed,DEMO23,016,C,None,None,None,None,None
+Trusty Steed,SP1,026,PR,None,None,None,None,None
+Veteran Soldier,DOA Alter,115,C,149,160,171,137,127
+Veteran Soldier,DOA 1st,115,C,160,171,183,149,137
+Veteran Soldier,DOAp,061,C,None,None,None,None,None
+Veteran Soldier,DOASD,062,C,None,None,None,None,None
+Veteran Soldier,DEMO22,019,C,None,None,None,None,None
+Veteran Soldier,DEMO23,017,C,None,None,None,None,None
+Veteran Soldier,SP1,018,U,183,199,183,159,167
+Meltdown,ALC,115,U,152,136,128,224,253
+Weaponsmith,DOA Alter,116,C,149,137,171,116,171
+Weaponsmith,DOA 1st,116,C,160,149,183,125,183
+Weaponsmith,DOAp,062,C,None,None,None,None,None
+Weaponsmith,DOASD,063,C,None,None,None,None,None
+Weaponsmith,DEMO22,020,C,None,None,None,None,None
+Overwhelming Swing,ALC,116,U,144,192,176,160,221
+Rocket Jump,ALC,117,U,213,160,160,168,192
+Rocket Jump,ALCSD,074,U,None,None,None,None,None
+"Rococo, Explosive Maven",ALC,118,SR,273,209,314,182,268
+"Arthur, Young Heir",DOA Alter,118,SR,251,255,247,225,268
+"Arthur, Young Heir",DOA 1st,118,SR,273,279,263,241,284
+"Arthur, Young Heir",EVP,002,CSR,330,340,300,310,320
+Blazing Direwolf,DOA Alter,119,U,168,152,133,192,248
+Blazing Direwolf,DOA 1st,119,U,184,160,144,208,264
+Tether in Flames,ALC,119,R,196,167,222,222,253
+Blazing Throw,DOA Alter,120,C,160,171,93,137,183
+Blazing Throw,DOA 1st,120,C,171,183,103,149,194
+Blazing Throw,DOAp,064,C,None,None,None,None,None
+Blazing Throw,DEMO23,018,C,None,None,None,None,None
+Veteran Blazebearer,ALC,120,U,136,237,184,136,200
+Airship Cruiser,ALC,121,C,149,149,137,160,149
+Blitz Mage,DOA Alter,121,U,160,144,192,213,184
+Blitz Mage,DOA 1st,121,U,168,152,208,232,200
+Blitz Mage,DOAp,065,U,None,None,None,None,None
+Blitz Mage,DOASD,064,U,None,None,None,None,None
+Blitz Mage,SP1,003,U,159,151,185,207,191
+Aqueous Armor,ALC,122,R,173,222,253,222,190
+Cemetery Sentry,DOA Alter,122,R,209,215,241,230,165
+Cemetery Sentry,DOA 1st,122,R,222,234,260,247,177
+Cemetery Sentry,SP1,004,R,190,209,223,209,229
+Awakened Deacon,ALC,123,C,160,160,149,160,115
+Clumsy Apprentice,DOA Alter,123,U,152,160,232,189,160
+Clumsy Apprentice,DOA 1st,123,U,160,168,248,208,176
+Clumsy Apprentice,P22,006,PR,0,0,0,0,0
+Corhazi Courier,DOA Alter,124,U,185,161,201,161,185
+Corhazi Courier,DOA 1st,124,U,200,168,216,176,200
+Awakened Frostguard,ALC,124,R,198,209,203,228,222
+Calculated Foresight,ALC,125,U,192,160,168,229,144
+Creative Shock,DOA Alter,125,U,169,137,185,209,193
+Creative Shock,DOA 1st,125,U,184,144,200,224,208
+Creative Shock,DOAp,066,U,None,None,None,None,None
+Creative Shock,DOASD,065,U,None,None,None,None,None
+Creative Shock,P23,019,PR,None,None,None,None,None
+Creative Shock,P23,019,CPR,None,None,None,None,None
+Cremation Ritual,DOA Alter,126,C,126,160,91,171,196
+Cremation Ritual,DOA 1st,126,C,137,171,103,183,206
+Cremation Ritual,DOAp,067,C,None,None,None,None,None
+Cremation Ritual,DOASD,066,C,None,None,None,None,None
+Cremation Ritual,SLC,003,PR,None,None,None,None,None
+Cremation Ritual,SLC,003,CPR,None,None,None,None,None
+Conjure Downpour,ALC,126,U,160,160,200,221,152
+Convalescent Tonic,ALC,127,C,160,149,138,160,137
+Disintegrate,DOA Alter,128,R,203,196,152,270,239
+Disintegrate,DOA 1st,128,R,215,209,165,291,260
+Disintegrate,DOAp,069KS,R,None,None,None,None,None
+Disintegrate,DOASD,067,R,None,None,None,None,None
+"Dahlia, Idyllic Dreamer",ALC,128,SR,302,236,263,225,220
+"Dahlia, Idyllic Dreamer",ALC 1st,128,CSR,404,356,444,328,328
+Diffusive Block,ALC,129,C,160,194,114,105,171
+Embersong,DOA Alter,129,U,161,161,193,201,177
+Embersong,DOA 1st,129,U,168,176,208,216,192
+Embertail Squirrel,DOA Alter,130,C,126,114,218,137,149
+Embertail Squirrel,DOA 1st,130,C,137,126,228,149,160
+Embertail Squirrel,SP1,022,PR,None,None,None,None,None
+Dormant Sacrificial Altar,ALC,130,U,160,152,144,221,216
+Flash Freeze,ALC,131,U,192,160,199,198,144
+Flash Freeze,ALCSD,076,U,None,None,None,None,None
+Energetic Beastbonder,DOA Alter,131,U,161,161,209,193,169
+Energetic Beastbonder,DOA 1st,131,U,176,168,224,208,184
+Fractal of Snow,ALC,132,R,228,209,190,260,173
+Erupting Rhapsody,DOA Alter,132,R,209,189,221,233,208
+Erupting Rhapsody,DOA 1st,132,R,222,203,241,252,222
+Freezing Round,ALC,133,U,168,160,144,192,229
+Fiery Momentum,DOA Alter,133,U,193,185,145,161,209
+Fiery Momentum,DOA 1st,133,U,208,200,152,176,224
+Fiery Momentum,DOAp,070,U,None,None,None,None,None
+Fiery Momentum,DEMO23,019,U,None,None,None,None,None
+Fireball,DOA Alter,134,C,137,126,91,218,172
+Fireball,DOA 1st,134,C,149,137,102,229,183
+Fireball,DOAp,071,C,None,None,None,None,None
+Fireball,DOASD,068,C,None,None,None,None,None
+Fireball,SP1,006,R,197,178,216,241,229
+Frigid Bash,ALC,134,U,168,200,152,160,213
+Flame Sweep,DOA Alter,135,R,234,209,191,197,229
+Flame Sweep,DOA 1st,135,R,253,228,203,209,247
+Flame Sweep,DOAp,072KS,R,None,None,None,None,None
+"Geni, Gifted Mechanist",ALC,135,SR,276,247,241,257,225
+"Geni, Gifted Mechanist",EVP,008,CSR,342,323,322,326,287
+Hypothermia,ALC,136,C,137,137,116,183,171
+Hypothermia,ALCSD,077,C,None,None,None,None,None
+Hypothermia,SLC,006,PR,None,None,None,None,None
+Hypothermia,SLC,006,CPR,None,None,None,None,None
+Flame-Rune Swordsman,DOA Alter,136,C,126,149,149,171,149
+Flame-Rune Swordsman,DOA 1st,136,C,137,171,137,195,160
+Flame-Rune Swordsman,DOAp,073,C,None,None,None,None,None
+Flame-Rune Swordsman,DOASD,069,C,None,None,None,None,None
+Flame-Rune Swordsman,DEMO23,020,C,None,None,None,None,None
+Flamelash Subduer,DOA Alter,137,C,126,126,194,149,149
+Flamelash Subduer,DOA 1st,137,C,137,137,183,160,183
+Krustallan Archer,ALC,137,U,160,176,192,168,197
+Krustallan Distiller,ALC,138,C,137,128,137,171,171
+Krustallan Distiller,ALCSD,078,C,None,None,None,None,None
+Focused Flames,DOA Alter,138,U,168,152,133,224,216
+Focused Flames,DOA 1st,138,U,184,176,152,232,216
+Focused Flames,DOAp,074,U,None,None,None,None,None
+Focused Flames,DOASD,070,U,None,None,None,None,None
+Perfect Repulsion,ALC,139,U,176,168,160,213,176
+Perfect Repulsion,ALCSD,079,U,None,None,None,None,None
+Hasty Messenger,DOA Alter,139,U,192,160,213,160,168
+Hasty Messenger,DOA 1st,139,U,208,176,216,176,184
+Hasty Messenger,DEMO23,021,U,None,None,None,None,None
+Hasty Messenger,P23,007,PR,None,None,None,None,None
+Ignite the Soul,DOA Alter,140,C,114,103,160,206,161
+Ignite the Soul,DOA 1st,140,C,126,114,171,218,171
+Ignite the Soul,DOAp,075,C,None,None,None,None,None
+Ignite the Soul,DOASD,071,C,None,None,None,None,None
+Potion Infusion: Clarity,ALC,140,R,215,184,241,253,167
+Potion Infusion: Clarity,ALCSD,080,R,None,None,None,None,None
+Ignited Stab,DOA Alter,141,C,160,137,91,160,196
+Ignited Stab,DOA 1st,141,C,171,149,103,171,206
+Potion Infusion: Frostbite,ALC,141,U,160,144,168,208,213
+Potion Infusion: Frostbite,ALCSD,081,U,None,None,None,None,None
+Reconnaissance Field,ALC,142,C,137,160,114,160,173
+Immolation Trap,DOA Alter,142,R,184,184,154,253,285
+Immolation Trap,DOA 1st,142,R,196,196,152,285,311
+Refresh Chamber,ALC,143,C,137,114,171,137,185
+Impassioned Tutor,DOA Alter,143,U,160,160,240,192,141
+Impassioned Tutor,DOA 1st,143,U,176,168,256,208,152
+Impassioned Tutor,DOAp,076,U,None,None,None,None,None
+Impassioned Tutor,DOASD,072,U,None,None,None,None,None
+Rimesoul Bishop,ALC,144,U,168,176,213,176,160
+Increasing Danger,DOA Alter,144,U,144,200,128,184,237
+Increasing Danger,DOA 1st,144,U,152,216,136,200,256
+Increasing Danger,DOAp,077,U,None,None,None,None,None
+Increasing Danger,SLC,008,PR,None,None,None,None,None
+Increasing Danger,SLC,008,CPR,None,None,None,None,None
+Mark the Target,DOA Alter,145,C,171,126,114,183,150
+Mark the Target,DOA 1st,145,C,183,137,126,194,160
+Seasprite Diver,ALC,145,U,200,168,221,168,136
+Patient Rogue,DOA Alter,146,U,185,153,209,161,185
+Patient Rogue,DOA 1st,146,U,200,160,224,176,200
+Shatterfall Keep,ALC,146,R,184,190,190,266,230
+Planted Explosive,DOA Alter,147,C,127,126,91,183,217
+Planted Explosive,DOA 1st,147,C,137,137,103,194,229
+Storm of Thorns,ALC,147,R,185,185,247,190,253
+Stream of Consciousness,ALC,148,C,138,138,137,194,137
+Stream of Consciousness,ALCSD,082,C,None,None,None,None,None
+Prodigious Burstmage,DOA Alter,148,C,128,91,171,194,160
+Prodigious Burstmage,DOA 1st,148,C,137,103,183,206,171
+Tactical Retreat,ALC,149,U,208,160,152,152,221
+Purge in Flames,DOA Alter,149,U,117,136,128,264,248
+Purge in Flames,DOA 1st,149,U,128,144,136,288,264
+Purge in Flames,DOASD,073,U,None,None,None,None,None
+Purge in Flames,DOAp,078,R,None,None,None,None,None
+Purge in Flames,DOAp,078KS,R,None,None,None,None,None
+Reckless Researcher,DOA Alter,150,U,149,160,216,208,160
+Reckless Researcher,DOA 1st,150,U,160,176,232,224,168
+Reckless Researcher,DOAp,079,U,None,None,None,None,None
+Torrential Blast,ALC,150,R,253,179,203,241,184
+Vaporjet Shieldbearer,ALC,151,U,184,237,144,152,176
+Waverider Protector,ALC,152,C,137,160,171,138,138
+Shout at Your Pets,DOA Alter,152,U,141,152,216,184,200
+Shout at Your Pets,DOA 1st,152,U,152,160,232,200,216
+Armored Valkyrie,ALC,153,C,126,171,160,127,160
+Spark Alight,DOA Alter,153,C,127,103,91,206,217
+Spark Alight,DOA 1st,153,C,137,114,103,217,229
+Spark Alight,DOAp,081,C,None,None,None,None,None
+Spark Alight,GSC,004,PR,0,0,0,0,0
+Spontaneous Combustion,DOA Alter,154,U,189,160,120,200,224
+Spontaneous Combustion,DOA 1st,154,U,208,168,128,216,240
+Battlefield Spotter,ALC,154,R,241,191,228,209,191
+Spurn to Ash,DOA Alter,155,U,189,152,136,216,200
+Spurn to Ash,DOA 1st,155,U,208,160,144,232,216
+Spurn to Ash,DOAp,082,U,None,None,None,None,None
+Cyclonic Strike,ALC,155,R,203,203,215,186,253
+Cyclonic Strike,ALCSD,084,R,None,None,None,None,None
+Dominating Strike,ALC,156,U,168,144,160,176,245
+Strapping Conscript,DOA Alter,156,U,177,193,161,161,201
+Strapping Conscript,DOA 1st,156,U,192,208,176,168,216
+Strapping Conscript,DEMO23,022,U,None,None,None,None,None
+Draught of Stamina,ALC,157,U,168,160,152,213,200
+Enchaining Gale,ALC,158,C,160,138,138,171,137
+"Varuck, Smoldering Spire",DOA Alter,158,SR,245,245,204,284,268
+"Varuck, Smoldering Spire",DOA 1st,158,SR,263,263,220,305,289
+Enhance Hearing,ALC,159,C,171,137,128,194,114
+Aqueous Enchanting,DOA Alter,159,U,201,169,153,185,185
+Aqueous Enchanting,DOA 1st,159,U,216,184,160,200,200
+Enhance Potency,ALC,160,R,209,179,222,247,203
+"Avalon, Cursed Isle",DOA Alter,160,SR,263,257,236,292,198
+"Avalon, Cursed Isle",DOA 1st,160,SR,284,279,252,311,214
+Fertile Grounds,ALC,161,U,184,152,205,232,120
+Benevolent Battle Priest,DOA Alter,161,U,192,160,200,200,141
+Benevolent Battle Priest,DOA 1st,161,U,208,168,216,216,152
+Imperial Alchemist,ALC,162,C,149,137,127,171,160
+Blue Slime,DOA Alter,162,U,192,152,232,176,141
+Blue Slime,DOA 1st,162,U,208,184,248,168,152
+Blue Slime,DOASD,074,U,None,None,None,None,None
+Bubble Mage,DOA Alter,163,U,176,160,200,216,141
+Bubble Mage,DOA 1st,163,U,192,168,216,232,152
+Bubble Mage,P22,003,PR,0,0,0,0,0
+"Perse, Relentless Raptor",ALC,163,SR,277,214,273,209,273
+"Perse, Relentless Raptor",EVP,009,CSR,304,277,405,245,369
+Chilling Touch,DOA Alter,164,C,126,114,149,172,183
+Chilling Touch,DOA 1st,164,C,137,126,160,183,194
+Rapid Reload,ALC,164,U,229,152,144,152,216
+Deep Sea Beastbonder,DOA Alter,165,C,160,126,183,172,103
+Deep Sea Beastbonder,DOA 1st,165,C,171,137,195,183,114
+Deep Sea Beastbonder,DOASD,075,C,None,None,None,None,None
+Repelling Palmblast,ALC,165,U,168,152,144,205,224
+Dewdrop Hares,DOA Alter,166,C,160,103,217,183,81
+Dewdrop Hares,DOA 1st,166,C,171,114,230,194,91
+Dewdrop Hares,DOASD,076,C,None,None,None,None,None
+"Rose, Eternal Paragon",ALC,166,SR,214,300,271,241,220
+"Rose, Eternal Paragon",ALC 1st,166,CSR,352,410,405,327,366
+Rousing Slam,ALC,167,C,194,160,115,126,149
+Rousing Slam,ALCSD,086,C,None,None,None,None,None
+Drowned Cut,DOA Alter,167,C,194,126,104,126,194
+Drowned Cut,DOA 1st,167,C,206,137,114,137,206
+Shimmercloak Assassin,ALC,168,C,149,104,171,137,183
+Fishing Accident,DOA Alter,168,U,184,176,135,207,191
+Fishing Accident,DOA 1st,168,U,200,192,144,216,208
+Fishing Accident,SP1,007,R,209,203,197,229,222
+Freeze Stiff,DOA Alter,169,C,137,114,160,173,160
+Freeze Stiff,DOA 1st,169,C,149,126,171,183,171
+Spellshield: Wind,ALC,169,R,184,234,203,260,179
+Freezing Hail,DOA Alter,170,C,160,103,103,195,183
+Freezing Hail,DOA 1st,170,C,171,114,114,207,194
+Freezing Hail,DOASD,077,C,None,None,None,None,None
+Freezing Hail,SP1,008,R,209,197,190,248,216
+Vanishing Shot,ALC,170,U,168,176,152,152,245
+Veiled Dash,ALC,171,U,229,168,168,168,160
+Frozen Nova,DOA Alter,171,R,203,184,209,242,222
+Frozen Nova,DOA 1st,171,R,215,196,228,260,241
+Whirlwind Vizier,ALC,172,U,168,152,208,221,144
+Giant Tortoise,DOA Alter,172,U,192,184,197,160,160
+Giant Tortoise,DOA 1st,172,U,208,200,216,168,168
+Giant Tortoise,DOASD,078,U,None,None,None,None,None
+Giant Tortoise,SP1,023,PR,None,None,None,None,None
+Give Bath,DOA Alter,173,C,160,126,229,149,80
+Give Bath,DOA 1st,173,C,171,137,241,160,91
+Give Bath,DOASD,079,C,None,None,None,None,None
+Wildgrowth Elixir,ALC,173,U,184,168,152,221,168
+Winbless Arbalest,ALC,174,C,137,160,194,137,116
+Glacial Guidance,DOA Alter,174,C,160,160,114,126,184
+Glacial Guidance,DOA 1st,174,C,171,171,126,138,194
+Imbue in Frost,DOA Alter,175,C,149,160,103,172,160
+Imbue in Frost,DOA 1st,175,C,160,171,115,183,171
+Winbless Gatekeeper,ALC,175,U,192,229,184,144,144
+Intrepid Highwayman,DOA Alter,176,C,149,114,183,138,160
+Intrepid Highwayman,DOA 1st,176,C,160,126,194,149,171
+Winds of Retribution,ALC,176,U,192,184,128,205,184
+Winds of Retribution,ALCSD,087,U,None,None,None,None,None
+Young Peacekeeper,ALC,177,U,160,221,184,144,184
+Young Peacekeeper,ALCSD,088,U,None,None,None,None,None
+Lakeside Serpent,DOA Alter,177,R,203,190,215,228,224
+Lakeside Serpent,DOA 1st,177,R,215,203,234,247,241
+Lakeside Serpent,DOASD,080,R,None,None,None,None,None
+"Lunete, Frostbinder Priest",DOA Alter,178,R,203,190,247,266,154
+"Lunete, Frostbinder Priest",DOA 1st,178,R,215,203,266,291,165
+"Lunete, Frostbinder Priest",EVP,003,CSR,300,300,340,370,290
+"Astarte, Celestial Dawn",ALC,178,SR,236,204,276,316,214
+"Astarte, Celestial Dawn",EVP,007,CSR,304,289,403,355,249
+Astra Sight,ALC,179,U,168,160,200,221,144
+Astra Sight,ALCSD,089,U,None,None,None,None,None
+Mind Freeze,DOA Alter,179,U,173,160,120,240,200
+Mind Freeze,DOA 1st,179,U,192,168,128,256,216
+Mist Resonance,DOA Alter,180,R,222,196,230,247,165
+Mist Resonance,DOA 1st,180,R,241,209,247,266,177
+Mist Resonance,DOASD,081,R,None,None,None,None,None
+Astral Seal,ALC,180,SR,236,230,263,329,188
+Celestial Calling,ALC,181,R,190,161,171,323,215
+Mistbound Cutthroat,DOA Alter,181,SR,257,225,310,251,203
+Mistbound Cutthroat,DOA 1st,181,SR,279,241,327,273,220
+Mistbound Watcher,DOA Alter,182,C,160,137,126,207,114
+Mistbound Watcher,DOA 1st,182,C,171,149,137,217,126
+"Claude, Fated Visionary",ALC,182,SR,247,332,214,265,188
+"Claude, Fated Visionary",ALC 1st,182,CSR,407,322,340,452,339
+Cometfall,ALC,183,R,141,152,146,298,323
+Cometfall,ALCSD,090,R,None,None,None,None,None
+"Nia, Mistveiled Scout",DOA Alter,183,R,215,196,235,204,210
+"Nia, Mistveiled Scout",DOA 1st,183,R,234,209,260,215,222
+"Nia, Mistveiled Scout",EVP,001,CSR,340,300,370,330,260
+Piper's Lullaby,DOA Alter,184,U,176,184,221,192,120
+Piper's Lullaby,DOA 1st,184,U,192,200,232,208,128
+Piper's Lullaby,DOASD,082,U,None,None,None,None,None
+Condensed Supernova,ALC,184,R,196,177,260,266,161
+Condensed Supernova,ALCSD,091,R,None,None,None,None,None
+Restorative Slash,DOA Alter,185,C,149,126,160,137,172
+Restorative Slash,DOA 1st,185,C,160,137,171,149,183
+Potion Infusion: Starlight,ALC,185,R,222,190,241,253,154
+Potion Infusion: Starlight,ALCSD,093,R,None,None,None,None,None
+Revitalizing Cleanse,DOA Alter,186,C,149,137,171,194,93
+Revitalizing Cleanse,DOA 1st,186,C,160,149,182,206,103
+Revitalizing Cleanse,DOASD,083,C,None,None,None,None,None
+Scry the Stars,ALC,186,UR,347,274,270,364,233
+Seafaring Mercenary,DOA Alter,187,C,149,183,171,114,127
+Seafaring Mercenary,DOA 1st,187,C,160,194,183,126,137
+Spellshield: Astra,ALC,187,R,215,222,186,234,203
+Spellshield: Astra,ALCSD,094,R,None,None,None,None,None
+Set the Traps,DOA Alter,188,C,160,126,114,149,195
+Set the Traps,DOA 1st,188,C,171,137,126,160,206
+The Constellatory Spire,ALC,188,SR,220,236,209,297,284
+Amorphous Strike,ALC,189,R,190,272,135,165,298
+Shroud in Mist,DOA Alter,189,R,241,215,190,228,186
+Shroud in Mist,DOA 1st,189,R,260,234,203,247,196
+Sink into Oblivion,DOA Alter,190,U,184,160,144,216,189
+Sink into Oblivion,DOA 1st,190,U,200,176,152,232,200
+Sink into Oblivion,P22,004,PR,0,0,0,0,0
+Assemble the Ancients,ALC,190,SR,308,306,188,214,230
+Assemble the Ancients,ALCSD,095,SR,None,None,None,None,None
+Aurousteel Greatsword,ALC,191,C,183,149,137,137,138
+Aurousteel Greatsword,ALCSD,096,C,None,None,None,None,None
+Snow Fairy,DOA Alter,191,R,209,184,266,247,154
+Snow Fairy,DOA 1st,191,R,222,196,285,266,171
+Snow Fairy,SP1,014,SR,257,235,267,257,230
+Stillwater Patrol,DOA Alter,192,C,126,160,183,137,138
+Stillwater Patrol,DOA 1st,192,C,137,171,194,149,149
+Stillwater Patrol,SP1,015,U,175,207,183,168,160
+Clockwork Amalgam,ALC,192,SR,230,257,182,309,268
+Strike from the Mist,DOA Alter,193,U,208,173,112,160,240
+Strike from the Mist,DOA 1st,193,U,224,192,120,168,256
+Fractal of Creation,ALC,193,R,222,222,190,253,173
+Sudden Snow,DOA Alter,194,U,184,173,128,192,216
+Sudden Snow,DOA 1st,194,U,200,192,136,208,224
+Neos Elemental,ALC,194,UR,247,366,221,357,297
+Neos Sight,ALC,195,U,200,221,168,144,160
+Neos Sight,ALCSD,097,U,None,None,None,None,None
+Tidal Sweep,DOA Alter,195,R,229,216,177,209,229
+Tidal Sweep,DOA 1st,195,R,247,234,190,228,241
+Obelisk of Armaments,ALC,196,C,194,160,104,149,137
+Obelisk of Armaments,ALCSD,098,C,None,None,None,None,None
+Tide Diviner,DOA Alter,196,R,210,197,235,241,177
+Tide Diviner,DOA 1st,196,R,228,209,253,260,190
+Tide Diviner,P23,008,PR,None,None,None,None,None
+Obelisk of Fabrication,ALC,197,C,160,149,104,137,194
+Obelisk of Fabrication,ALCSD,099,C,None,None,None,None,None
+Obelisk of Protection,ALC,198,C,183,171,116,137,137
+Obelisk of Protection,ALCSD,100,C,None,None,None,None,None
+Aesan Protector,DOA Alter,198,U,181,200,152,160,200
+Aesan Protector,DOA 1st,198,U,200,216,160,176,208
+Aesan Protector,DOAp,084,U,None,None,None,None,None
+Arrow Trap,DOA Alter,199,U,200,160,125,192,216
+Arrow Trap,DOA 1st,199,U,216,168,136,208,232
+Provoke Obstinance,ALC,199,SR,257,257,214,247,271
+Smash with Obelisk,ALC,200,U,168,184,160,128,253
+Smash with Obelisk,ALCSD,101,U,None,None,None,None,None
+Attune with the Winds,DOA Alter,200,R,222,190,223,241,184
+Attune with the Winds,DOA 1st,200,R,241,203,241,260,195
+Summon Sentinels,ALC,201,U,208,213,160,160,152
+Summon Sentinels,ALCSD,102,U,None,None,None,None,None
+Beseech the Winds,DOA Alter,201,SR,289,252,255,268,182
+Beseech the Winds,DOA 1st,201,SR,306,273,279,284,198
+Blackmarket Broker,DOA Alter,202,C,149,137,184,137,137
+Blackmarket Broker,DOA 1st,202,C,183,137,160,171,149
+Anathema's End,ALC,202,SR,247,214,204,284,297
+Anathema's End,ALCSD,103,SR,None,None,None,None,None
+Bushwhack Bandit,DOA Alter,203,C,183,114,173,137,137
+Bushwhack Bandit,DOA 1st,203,C,194,126,182,149,149
+"Carter, Synthetic Reaper",ALC,203,UR,231,297,279,329,352
+Creeping Torment,ALC,204,C,138,137,126,194,149
+Creeping Torment,ALCSD,104,C,None,None,None,None,None
+"Camelot, Impenetrable",DOA Alter,204,SR,257,289,252,252,196
+"Camelot, Impenetrable",DOA 1st,204,SR,279,301,273,273,214
+Channel the Wind,DOA Alter,205,C,171,126,171,183,93
+Channel the Wind,DOA 1st,205,C,183,137,183,194,103
+Demon's Aim,ALC,205,R,196,180,190,234,260
+Combo Strike,DOA Alter,206,U,208,208,151,135,191
+Combo Strike,DOA 1st,206,U,224,224,160,144,208
+Combo Strike,DOAp,085,U,None,None,None,None,None
+False Step,ALC,206,R,253,180,209,184,234
+Cry for Help,DOA Alter,207,U,152,200,183,143,215
+Cry for Help,DOA 1st,207,U,160,216,200,152,232
+Gloamspire Wraith,ALC,207,R,215,190,241,234,180
+Disorienting Winds,DOA Alter,208,U,160,184,136,230,183
+Disorienting Winds,DOA 1st,208,U,168,200,144,248,200
+Disorienting Winds,DOAp,086,U,None,None,None,None,None
+Load Soul,ALC,208,SR,209,204,225,300,308
+Mindbreak Bullet,ALC,209,R,190,196,177,234,263
+Mindbreak Bullet,ALCSD,105,R,None,None,None,None,None
+Dream Fairy,DOA Alter,209,R,234,177,253,228,168
+Dream Fairy,DOA 1st,209,R,254,190,272,247,177
+Dream Fairy,DOAp,087,R,None,None,None,None,None
+Ensnaring Fumes,DOA Alter,210,R,209,190,218,234,209
+Ensnaring Fumes,DOA 1st,210,R,222,203,234,253,228
+Relentless Hexchaser,ALC,210,SR,220,214,279,270,263
+Extortion Scheme,DOA Alter,211,U,160,152,205,184,192
+Extortion Scheme,DOA 1st,211,U,176,160,216,200,208
+Shadecursed Hunter,ALC,211,R,185,185,228,215,247
+Umbra Sight,ALC,212,U,168,144,221,208,152
+Umbra Sight,ALCSD,106,U,None,None,None,None,None
+Fairy Whispers,DOA Alter,212,U,184,160,192,205,152
+Fairy Whispers,DOA 1st,212,U,200,168,208,224,160
+Fairy Whispers,DOAp,088,U,None,None,None,None,None
+Favorable Winds,DOA Alter,213,C,183,126,126,194,115
+Favorable Winds,DOA 1st,213,C,194,137,137,206,126
+Favorable Winds,DOAp,089,C,None,None,None,None,None
+Favorable Winds,DOASD,084,C,None,None,None,None,None
+Favorable Winds,DEMO23,024,C,None,None,None,None,None
+Favorable Winds,GSC,001,PR,0,0,0,0,0
+Umbral Tithe,ALC,213,R,203,203,179,272,203
+Umbral Tithe,ALCSD,107,R,None,None,None,None,None
+Hurricane Sweep,DOA Alter,214,R,215,223,184,203,235
+Hurricane Sweep,DOA 1st,214,R,234,241,196,215,254
+Hurricane Sweep,DOAp,090,R,None,None,None,None,None
+Hurricane Sweep,DOASD,085,R,None,None,None,None,None
+Hurricane Sweep,SP1,010,SR,257,246,235,241,267
+Violet Haze,ALC,214,SR,236,230,214,279,287
+Violet Haze,ALCSD,108,SR,None,None,None,None,None
+Menagerie Beastbonder,DOA Alter,215,C,160,126,184,160,114
+Menagerie Beastbonder,DOA 1st,215,C,171,137,195,171,126
+Phalanx Captain,DOA Alter,216,R,215,223,229,178,215
+Phalanx Captain,DOA 1st,216,R,234,241,241,190,234
+Phalanx Captain,DOASD,086,R,None,None,None,None,None
+Poised Strike,DOA Alter,217,C,183,160,160,104,137
+Poised Strike,DOA 1st,217,C,195,171,171,114,149
+Rallied Advance,DOA Alter,218,C,160,183,114,114,173
+Rallied Advance,DOA 1st,218,C,171,194,126,126,183
+Rallied Advance,DOAp,091,C,None,None,None,None,None
+Scattering Gusts,DOA Alter,221,R,222,215,171,249,203
+Scattering Gusts,DOA 1st,221,R,241,234,184,266,215
+Scattering Gusts,DOAp,094KS,R,None,None,None,None,None
+Second Wind,DOA Alter,222,U,192,152,144,232,173
+Second Wind,DOA 1st,222,U,200,176,152,248,184
+Second Wind,DOAp,095,U,None,None,None,None,None
+Second Wind,DEMO23,026,U,None,None,None,None,None
+Song of Return,DOA Alter,223,C,137,126,194,183,104
+Song of Return,DOA 1st,223,C,149,137,206,194,114
+Summon Gale,DOA Alter,224,C,137,137,103,194,173
+Summon Gale,DOA 1st,224,C,149,149,113,206,183
+Swift Recruit,DOA Alter,225,C,160,184,137,126,137
+Swift Recruit,DOA 1st,225,C,171,194,149,137,149
+Swift Recruit,DOAp,096,C,None,None,None,None,None
+Swift Recruit,DOASD,088,C,None,None,None,None,None
+Swift Recruit,DEMO23,027,C,None,None,None,None,None
+Swift Recruit,SP1,016,U,183,191,199,160,160
+Tempest Silverback,DOA Alter,227,U,160,200,142,151,240
+Tempest Silverback,DOA 1st,227,U,176,216,152,160,256
+Trained Hawk,DOA Alter,228,C,160,171,137,126,150
+Trained Hawk,DOA 1st,228,C,171,183,149,137,160
+Trained Hawk,DOAp,098,C,None,None,None,None,None
+Trained Hawk,SP1,025,PR,None,None,None,None,None
+Veiling Breeze,DOA Alter,229,C,183,126,160,160,115
+Veiling Breeze,DOA 1st,229,C,194,138,171,171,126
+Veiling Breeze,DOAp,099,C,None,None,None,None,None
+Wilderness Harpist,DOA Alter,230,C,149,114,217,171,93
+Wilderness Harpist,DOA 1st,230,C,171,126,217,183,103
+Wind Cutter,DOA Alter,231,C,194,137,104,149,160
+Wind Cutter,DOA 1st,231,C,195,160,103,171,171
+Wind Cutter,DOAp,100,C,None,None,None,None,None
+Wind Cutter,DOASD,089,C,None,None,None,None,None
+Wind Cutter,DEMO23,028,C,None,None,None,None,None
+Windrider Mage,DOA Alter,232,U,176,160,205,216,136
+Windrider Mage,DOA 1st,232,U,192,168,224,232,144
+Windrider Vanguard,DOA Alter,233,C,149,183,161,114,137
+Windrider Vanguard,DOA 1st,233,C,160,194,171,126,149
+Windrider Vanguard,DEMO23,029,C,None,None,None,None,None
+Windrider Vanguard,SLC,015,PR,None,None,None,None,None
+Windstream Mutt,DOA Alter,234,C,137,149,207,160,91
+Windstream Mutt,DOA 1st,234,C,149,160,217,171,103
+Windstream Mutt,SP1,027,PR,None,None,None,None,None
+Zephyr,DOA Alter,235,R,228,184,179,247,222
+Zephyr,DOA 1st,235,R,247,196,190,266,241
+Zephyr,SP1,021,R,190,203,229,241,197
+Zephyr Assistant,DOA Alter,236,C,149,126,183,183,103
+Zephyr Assistant,DOA 1st,236,C,160,137,194,194,115
+Advent of the Stormcaller,DOA Alter,237,SR,246,223,198,295,284
+Advent of the Stormcaller,DOA 1st,237,SR,263,241,214,316,306
+Arcane Blast,DOA Alter,239,U,160,160,136,216,221
+Arcane Blast,DOA 1st,239,U,176,168,144,232,240
+Arcane Blast,DOAp,102,U,None,None,None,None,None
+Arcane Blast,DOASD,091,U,None,None,None,None,None
+Arcane Blast,SP1,001,SR,214,187,257,321,267
+Arcane Disposition,DOA Alter,240,U,184,152,160,224,173
+Arcane Disposition,DOA 1st,240,U,200,160,168,240,192
+Arcane Disposition,DOAp,103,U,None,None,None,None,None
+Arcane Disposition,DOASD,092,U,None,None,None,None,None
+Arcane Elemental,DOA Alter,241,R,177,209,146,247,281
+Arcane Elemental,DOA 1st,241,R,190,228,158,266,298
+Arcane Sight,DOA Alter,242,U,160,168,160,232,173
+Arcane Sight,DOA 1st,242,U,176,184,168,248,184
+Arcane Sight,DOAp,104,U,None,None,None,None,None
+Arcane Sight,DOASD,093,U,None,None,None,None,None
+Conduit of the Mad Mage,DOA Alter,243,R,222,184,247,266,141
+Conduit of the Mad Mage,DOA 1st,243,R,241,196,266,285,152
+Erratic Bolt,DOA Alter,244,R,203,184,222,241,210
+Erratic Bolt,DOA 1st,244,R,215,196,241,260,228
+Reckless Conversion,DOA Alter,246,SR,263,257,198,300,228
+Reckless Conversion,DOA 1st,246,SR,284,279,214,322,241
+Reckless Conversion,DOAp,106KS,SR,None,None,None,None,None
+Spellshield: Arcane,DOA Alter,247,R,215,228,139,241,237
+Spellshield: Arcane,DOA 1st,247,R,234,247,152,260,247
+Spellshield: Arcane,DOAp,107,R,None,None,None,None,None
+Spellshield: Arcane,DOASD,095,R,None,None,None,None,None
+Crux Sight,DOA Alter,248,U,168,184,184,205,152
+Crux Sight,DOA 1st,248,U,184,200,200,216,160
+Crux Sight,DOAp,108,U,None,None,None,None,None
+Crux Sight,DOASD,096,U,None,None,None,None,None
+Ghosts of Pendragon,DOA Alter,249,SR,257,284,177,252,276
+Ghosts of Pendragon,DOA 1st,249,SR,279,305,188,273,295
+Ghosts of Pendragon,DOAp,109KS,SR,None,None,None,None,None
+Intangible Geist,DOA Alter,250,SR,263,273,177,279,254
+Intangible Geist,DOA 1st,250,SR,284,295,188,300,273
+Spirit Blade: Ascension,DOA Alter,251,R,234,215,190,225,196
+Spirit Blade: Ascension,DOA 1st,251,R,253,234,203,241,209
+Spirit Blade: Ascension,DOAp,110,R,None,None,None,None,None
+Spirit Blade: Ascension,DOAp,110KS,R,None,None,None,None,None
+Spirit Blade: Ascension,DOASD,097,R,None,None,None,None,None
+Spirit Blade: Ensoul,DOA Alter,253,SR,236,257,225,273,255
+Spirit Blade: Ensoul,DOA 1st,253,SR,252,279,241,295,273
+Spirit Blade: Ghost Strike,DOA Alter,254,U,200,168,144,181,200
+Spirit Blade: Ghost Strike,DOA 1st,254,U,216,184,152,200,208
+Spirit Blade: Ghost Strike,DOAp,112,U,None,None,None,None,None
+Spirit Blade: Ghost Strike,DOASD,099,U,None,None,None,None,None
+Spirit's Blessing,DOA Alter,256,R,237,203,196,215,209
+Spirit's Blessing,DOA 1st,256,R,254,215,209,234,228
+Spirit's Blessing,DOAp,114,R,None,None,None,None,None
+Spirit's Blessing,DOASD,101,R,None,None,None,None,None
+Corhazi Infiltrator,DOA Alter,257,R,237,215,222,196,190
+Corhazi Infiltrator,DOA 1st,257,R,253,234,241,209,203
+Corhazi Lightblade,DOA Alter,258,U,184,200,184,165,160
+Corhazi Lightblade,DOA 1st,258,U,200,208,200,184,168
+"Excalibur, Cleansing Light",DOA Alter,259,R,222,234,139,243,222
+"Excalibur, Cleansing Light",DOA 1st,259,R,241,247,151,260,241
+Gleaming Cut,DOA Alter,260,U,192,184,160,152,205
+Gleaming Cut,DOA 1st,260,U,208,200,176,160,216
+Lightweaver's Assault,DOA Alter,261,SR,257,252,209,268,260
+Lightweaver's Assault,DOA 1st,261,SR,279,273,225,290,273
+Luxem Sight,DOA Alter,262,U,181,192,160,200,160
+Luxem Sight,DOA 1st,262,U,200,208,168,208,176
+Thousand Refractions,DOA Alter,263,SR,276,257,209,252,252
+Thousand Refractions,DOA 1st,263,SR,289,280,225,273,273
+"Triskit, Guidance Angel",DOA Alter,264,SR,241,255,284,268,198
+"Triskit, Guidance Angel",DOA 1st,264,SR,257,280,300,289,214
+"Triskit, Guidance Angel",SP1,017,CSR,300,300,310,260,230
+Uncover the Plot,DOA Alter,265,R,222,215,190,249,184
+Uncover the Plot,DOA 1st,265,R,241,234,203,266,196
+"Arima, Gaia's Wings",DOA Alter,266,SR,273,263,204,295,211
+"Arima, Gaia's Wings",DOA 1st,266,SR,295,284,220,316,225
+Artificer's Opus,DOA Alter,267,SR,225,263,176,279,303
+Artificer's Opus,DOA 1st,267,SR,241,284,188,300,327
+Call the Pack,DOA Alter,268,R,222,241,177,205,215
+Call the Pack,DOA 1st,268,R,241,260,190,215,234
+Command the Hunt,DOA Alter,269,R,215,228,153,210,254
+Command the Hunt,DOA 1st,269,R,234,247,165,228,266
+Gaia's Songbird,DOA Alter,270,U,184,208,176,200,125
+Gaia's Songbird,DOA 1st,270,U,192,200,216,224,128
+Gaia's Songbird,DOASD,102,U,None,None,None,None,None
+Hymn of Gaia's Grace,DOA Alter,271,SR,241,241,287,279,198
+Hymn of Gaia's Grace,DOA 1st,271,SR,257,257,312,300,214
+Invoke Dominance,DOA Alter,272,R,234,247,180,209,190
+Invoke Dominance,DOA 1st,272,R,253,266,190,228,203
+Invoke Dominance,DOASD,103,R,None,None,None,None,None
+Meadowbloom Dryad,DOA Alter,273,U,176,176,221,192,128
+Meadowbloom Dryad,DOA 1st,273,U,192,192,232,216,128
+Meadowbloom Dryad,DOASD,104,U,None,None,None,None,None
+Tera Sight,DOA Alter,274,U,192,160,192,213,136
+Tera Sight,DOA 1st,274,U,208,176,208,232,136
+Tera Sight,DOASD,105,U,None,None,None,None,None
+"Vertus, Gaia's Roar",DOA Alter,275,R,228,241,158,211,222
+"Vertus, Gaia's Roar",DOA 1st,275,R,247,253,171,228,241
+"Vertus, Gaia's Roar",DOASD,106,R,None,None,None,None,None
+Bestial Frenzy,DOA Alter,276,SR,263,257,214,225,287
+Spark Fairy,DOA Alter,277,R,196,177,253,234,200
+Frostsworn Paladin,DOA Alter,278,U,160,184,216,200,133
+Frostsworn Paladin,P23,002,PR,None,None,None,None,None
+Nullifying Lantern,DOA Alter,279,U,192,160,184,224,133
+Nullifying Lantern,P23,003,PR,None,None,None,None,None
+Young Beastbonder,DOA Alter,280,U,176,192,213,160,152
